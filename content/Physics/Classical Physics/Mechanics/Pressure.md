@@ -3,11 +3,9 @@ Pressure is determined as $P=\frac FA$ , with the units of Pascals ($Pa$). For a
 In the cup and the cardboard example, the water doesn't fall out because the air pressure exerts a [[Force]] up on the cardboard. 
 The two forces of the water pushing down and the atmospheric pressure pushing up are equal, and therefore can be represented by the following equation.
 $$
-$$
 \begin{aligned}
 P&= \frac FA=\frac{mg}A\\
 &= \frac{(\rho Ah)g}{A}\\
 &= \rho hg
 \end{aligned}
-$$
 $$

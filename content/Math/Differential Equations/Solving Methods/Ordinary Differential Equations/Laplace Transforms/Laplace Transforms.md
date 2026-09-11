@@ -1,10 +1,8 @@
 These are used to find the solutions to [[Ordinary Differential Equations]] by turning an [[Ordinary Differential Equations]] into an algebraic one. These are a type of [[Transforms]], and will take the form of:
 $$
-$$
 \begin{aligned}
 \mathcal{L}\big\{f(t)\big\}(s)&= \int_0^\infty f(t)e^{-st}dt
 \end{aligned}
-$$
 $$
 After we compute this [[Definite Integral]], we will be given the transformed function,.
 
@@ -30,9 +28,7 @@ Let $f(t),g(t)$ be continuous and of exponential order. suppose that there exist
 # Solving Equations
 In general, in order to solve an [[Ordinary Differential Equations|ODE]] with Laplace transforms, we just take the Laplace transform of both sides of the equation, and then rearrange this, solving for the $\mathcal{L}$ term and then taking the inverse Laplace transform:
 $$
-$$
 \begin{aligned}
 \mathcal L(ax^2+bx+c)=\mathcal L(f(x))
 \end{aligned}
-$$
 $$

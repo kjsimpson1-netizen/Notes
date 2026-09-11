@@ -12,19 +12,15 @@ This is the length of the vector, or the size, and can be found using the [[Norm
 ## Adding and Subtracting
 You can add and subtract vectors by just subtracting/adding each of the corresponding components in the vectors. 
 $$
-$$
 \begin{aligned}
 \vec{a}\pm\vec{b}&= (a_1\pm b_1,a_2\pm b_2)
 \end{aligned}
 $$
-$$
 ## Multiplying a vector by a scalar
 If you are multiplying a vector by a scalar, then you distribute the scalar throughout each of the components of the vector. 
-$$
 $$
 \begin{aligned}
 c\vec{a}&= (ca_1, ca_2)
 \end{aligned}
-$$
 $$
 All this does is scale the length of the vector, not the direction (unless it is negative.)

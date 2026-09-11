@@ -1,6 +1,5 @@
 Any [[Force]] that is exerted over a distance is considered work. For example, pushing a car, carrying textbooks and walking up the stairs are all examples of work. The equation for work, as it is a [[Force]] over a distance can be found with:
 $$
-$$
 \begin{aligned}
 W&= \vec F\cdot \vec d\\
 \hline\\
@@ -9,9 +8,7 @@ W&= \text{Work (J)}\\
 \vec d&= \text{Distance (m)}
 \end{aligned}
 $$
-$$
 Work is a scalar quantity, it can be positive and negative, however direction has no meaning on it. However, if the force is varying, or if that distance is non linear, then we must use a more complicated expression using a [[Line Integrals|Line Integral]]:
-$$
 $$
 \begin{aligned}
 W&= \int_C\vec F\cdot \hat Tds=\int_{t=a}^b\vec F(\vec r(t))\cdot\vec r(t)dt\\
@@ -21,5 +18,4 @@ W&= \text{Work}\\
 \vec T&= \text{Tangent Distance}\\
 s&= \text{Step along }C
 \end{aligned}
-$$
 $$

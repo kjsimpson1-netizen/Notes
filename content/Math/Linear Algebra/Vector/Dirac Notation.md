@@ -5,7 +5,6 @@ This is a subset of [[Linear Algebra]], however instead of just regular [[Vector
 ## Bra's and Ket's
 If we are given a ket, $\ket{x}$, in order to find it's bra, we take the transpose conjugate of the ket. 
 $$
-$$
 \begin{aligned}
 \ket{x}&\equiv  \begin{bmatrix}
 u_1\\u_2
@@ -14,7 +13,6 @@ u_1\\u_2
 u_1^*&u_2^*
 \end{bmatrix}
 \end{aligned}
-$$
 $$
 >[!Note]
 >An important property of a bra and it's respective ket is that the inner product will always give 1 (assuming that it's normalized).

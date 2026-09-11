@@ -2,11 +2,9 @@ This method, often abbreviated to *P.V.*, is used to evaluate [[Improper Integra
 >[!Note]
 >The bound that is taken as a [[Limit]] is the one that is not evaluable with the given value of the function
 $$
-$$
 \begin{aligned}
 \int_a^bf(x)dx&= \lim_{t\rightarrow a^+}\int_t^bf(x)dx
 \end{aligned}
-$$
 $$
 
 And if this function has a discontinuity somewhere where $c\in[a,b]$, then we can break it up into two different integrals. However, if either of the pieces doesn't exist, then the overall [[Integral]] doesn't exist. 

@@ -1,6 +1,5 @@
 This is the same as [[Lower Triangular Matrix]], however in the upper corner rather than the lower, taking the following form:
 $$
-$$
 \begin{aligned}
 \begin{bmatrix}
 *&*&*\\
@@ -9,10 +8,8 @@ $$
 \end{bmatrix}
 \end{aligned}
 $$
-$$
 >[!Note]
 >A unit upper triangle matrix is the same as shown above however with the diagonal all being equal to 1$$
-$$
 \begin{aligned}
 \begin{bmatrix}
 1&*&*\\
@@ -20,5 +17,4 @@ $$
 0&0&1
 \end{bmatrix}
 \end{aligned}
-$$
 $$
