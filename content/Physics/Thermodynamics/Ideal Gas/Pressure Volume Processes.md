@@ -5,10 +5,12 @@ When an [[Ideal Gas]] is changing from it's initial state to it's final state, i
 
 If we take the integral of the function for work ($W=P\Delta V$), we get:
 $$
+$$
 \begin{aligned}
 W&= \int_{V_1}^{V_2}\frac1P\;dV\\
 &= (\ln(V_1)-\ln(V_2))
 \end{aligned}
+$$
 $$
 ## Heat
 When a gas tries to cool during a change in states, this can be prevented in one of two ways. It can either have a heater manually adding energy to the system, preventing the gas from cooling, or it can have a vacuum portion that it expands into (this is called free expansion, and the temperature does not change during free expansion). However, both of these methods will have different amounts of heat given for the same temperature of the gas, therefore the heat is not dependant on the path. We can figure out this part by discussing the total [[Internal Energy]] of the system. 
@@ -16,10 +18,12 @@ When a gas tries to cool during a change in states, this can be prevented in one
 ### Cyclic Process
 This is a process in which the final state returns to the initial one, completing a full loop. Therefore, since [[Internal Energy]] is not dependant upon path, the [[Internal Energy]] must be 0, therefore:
 $$
+$$
 \begin{aligned}
 0&= Q-W\\
 Q&= W
 \end{aligned}
+$$
 $$
 So the amount of heat that goes in is exactly equal to the amount of work that will come out. 
 ### Isolated Systems

@@ -5,9 +5,11 @@ Therefore, we can approximate $f(x)$ by it's [[Tangent Line]], $T(x)$, when $x$ 
 ### Equation
 The linear approximation of $f(x)$ at $x=a$ is:
 $$
+$$
 \begin{aligned}
 L(x)=f(a)+f'(a)\cdot(x-a)
 \end{aligned}
+$$
 $$
 We can find the linear approximation by plugging the chosen value $a$ and then simplifying the expression. 
 >[!Note]

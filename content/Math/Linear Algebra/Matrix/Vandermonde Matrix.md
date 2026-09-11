@@ -1,5 +1,6 @@
 This is the matrix that allows us to find the [[Polynomial Interpolation]] of a data set. The Vandermonde [[matrix]] is given by:
 $$
+$$
 \begin{aligned}
 A=\begin{bmatrix}
 1&t_0&\cdots&t_0^d\\
@@ -9,9 +10,12 @@ A=\begin{bmatrix}
 \end{bmatrix}
 \end{aligned}
 $$
+$$
 From this, we have that the [[Determinant]] of the Vandermonde matrix as:
+$$
 $$
 \begin{aligned}
 \det(A)=\prod_{0\le i\le j\le d}(t_j-t_i)
 \end{aligned}
+$$
 $$

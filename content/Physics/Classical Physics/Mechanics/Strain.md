@@ -1,8 +1,10 @@
 This is the deformation that is caused by the [[Stress]]. It is measured in fractional or percentile change from the original size.
 $$
+$$
 \begin{aligned}
 \text{Strain}&= \frac{\Delta L}{L_0}
 \end{aligned}
+$$
 $$
 There are also multiple different types of strain:
 ### Elastic

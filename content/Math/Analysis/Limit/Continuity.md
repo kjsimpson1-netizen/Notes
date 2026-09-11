@@ -8,8 +8,10 @@ If, $\lim_{x\rightarrow a}f(x)= f(a)$ then $f(x)$ is continuous at $f(a)$. This 
 ## Continuity as a function
 The function is continuous at $x=a$ if:
 $$
+$$
 \begin{aligned}
 \lim_{x\rightarrow a^-}f(x)&= f(a)=\lim_{x\rightarrow a^+}f(x)
 \end{aligned}
+$$
 $$
 This just shows that each of the [[One Sided Limits]] are equivalent to the function evaluated at the same value, $x=a$. 

@@ -1,5 +1,6 @@
 This is the [[Conservation of Energy]] with thermodynamics. This relates the [[Heat]] and the [[Work]] to the internal energy of the gas. 
 $$
+$$
 \begin{aligned}
 \\
 &\text{Physics}\\
@@ -12,6 +13,7 @@ Q:&\text{Heat}\\
 \Delta U:&\text{Internal Energy}\\
 W:&\text{Work done by gas}
 \end{aligned}
+$$
 $$
 >[!Note]
 >The $\Delta U$ is completely independent of the path that it goes on to get to that state.

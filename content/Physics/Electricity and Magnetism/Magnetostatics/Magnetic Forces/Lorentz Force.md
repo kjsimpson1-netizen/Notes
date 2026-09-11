@@ -1,5 +1,6 @@
 This is the force of a charge due to both the [[Magnetic Field]] and [[Electric Field]]. This is expressed by:
 $$
+$$
 \begin{aligned}
 \vec F&= \pm q(\vec E+\vec v\times \vec B)\\
 \hline\\
@@ -9,4 +10,5 @@ q&= \text{Charge}\\
 \vec v&= \text{Velocity}\\
 \vec B&= \text{Magnetic Field}
 \end{aligned}
+$$
 $$

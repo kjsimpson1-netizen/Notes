@@ -2,7 +2,9 @@ This is the quantity of electron pairs that are in a [[Bond]]. For example, a [[
 ## Resonance Structure
 In any compound with a [[Chemistry/Molecular Structure/Lewis Structures/Resonance]], there will be an average bond order for the average of all of the reasonable resonances. For example, benzene will have a bond order of 1.5, as there are only 2 [[Chemistry/Molecular Structure/Lewis Structures/Resonance]] structures, one with a bond order of 1 and the other with a bond order of 2. We can also represent this with an equation:
 $$
+$$
 \begin{aligned}
 \text{Bond Order}&= \frac{\sum\text{Bond Orders}}{\text{Resonances}}
 \end{aligned}
+$$
 $$
