@@ -12,3 +12,22 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+# Private notes/folders inside the Quartz content folder
+content/private/
+content/templates/
+content/.obsidian/
+content/1-General/
+content/2-Homework/
+
+# Temporary/test exclusion
+content/APSC/
+content/Chemistry/
+content/Math/
+content/Physics/
+content/Civil 250.md
+content/.makemd/
+content/.trash/
+content/Table of Contents.base
+content/Untitled.sheet
+content/..md
