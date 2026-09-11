@@ -31,4 +31,28 @@ $$\begin{align*}
 
 We can now solve the two resultant [[Ordinary Differential Equations]]:
 ### Space Equation
-First solving $\frac{dX^2(x)}{dx^2}=-X(x)\mu^2$ gives us the solution $X(x)=A\cos(\mu x)+B\sin(\mu x)$. We can now apply the boundary conditions, which gives us that
+First solving $\frac{dX^2(x)}{dx^2}=-X(x)\mu^2$ gives us the solution $X(x)=A\cos(\mu x)+B\sin(\mu x)$. We can now apply the boundary conditions, which gives us that:
+$$\begin{align*}
+X'(0)&= B\mu=0&&\implies B=0\\
+X'(L)&= A\mu\cos(\mu L)=0&&\implies \mu_n=\frac{\pi n}{2L},n\in\mathbb{N}
+\end{align*}$$
+This gives us the eigenvalues, which we can then plug into the solution for $X(x)$:
+$$\begin{align*}
+X_n(x)=A\cos\left(\frac{\pi n}{2L}\right)
+\end{align*}$$
+>[!Note]
+>Note the $n$ in the equation here, as any integer value of $n$ will satisfy the eigenvalue.
+### Time Equation
+This one is easy to solve, as $\frac{dT(t)}T=-\mu^2dt$ has the solution $T_n(t)=\exp(-\mu^2 t)$.
+### Putting it together
+We can now express the full solution:
+$$\begin{align*}
+u_n(x,t)&= X_n(x)T_n(t)\\
+&= c_n\cos(\mu x)\exp(-\mu^2t)\\
+&= c_n\cos\left(\frac{\pi n}{2L} x\right)\exp\left(-\left(\frac{\pi n}{2L}\right)^2t\right)
+\end{align*}$$
+The full solution will be the summation of all values of $n$, therefore:
+$$\begin{align*}
+\boxed{u(x,t)= \sum_{n=0}^\infty c_n\cos\left(\frac{\pi n}{2L} x\right)\exp\left(-\left(\frac{\pi n}{2L}\right)^2t\right)}
+\end{align*}$$
+And from here, the values of $c_n$ can be determined via initial conditions. **
