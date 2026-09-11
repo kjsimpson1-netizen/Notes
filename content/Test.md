@@ -1,4 +1,4 @@
 This is a test file
-$$\begin{align*}
+$$\begin{aligned}
 F=ma
-\end{align*}$$
+\end{aligned}$$
