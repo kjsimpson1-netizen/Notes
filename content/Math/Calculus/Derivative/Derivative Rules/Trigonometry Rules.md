@@ -1,43 +1,63 @@
 These are the [[Derivative]] rules for the trigonometric functions
 # Regular Trigonometry Functions
 ## Derivative of Sine
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\sin x&= \cos x
-\end{align*}$$
+\end{aligned}
+$
 ## Derivative of Cosine
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\cos x &= -\sin x
-\end{align*}$$
+\end{aligned}
+$
 ## Derivative of Tangent
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\tan x&= \sec^2 x
-\end{align*}$$
+\end{aligned}
+$
 ## Derivative of Secant
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\sec x&=\tan x\times\sec x 
-\end{align*}$$
+\end{aligned}
+$
 ## Derivative of Cosecant
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\csc x&=-\cot x \times\csc x 
-\end{align*}$$
+\end{aligned}
+$
 ## Derivative of Cotangent
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\cot x&= -\csc^2x
-\end{align*}$$
+\end{aligned}
+$
 # Inverse Trigonometry Functions
 ## Derivative of Arcsine
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\arcsin x &= \frac1{\sqrt{1-x^2}}
-\end{align*}$$
+\end{aligned}
+$
 ## Derivative of Arccosine
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\arccos x &= -\frac1{\sqrt{1-x^2}}
-\end{align*}$$
+\end{aligned}
+$
 ## Derivative of Arctangent
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\arctan&= \frac1{1+x^2}
-\end{align*}$$
+\end{aligned}
+$
 ## Derivative of Arc Cotangent
-$$\begin{align*}
+$
+\begin{aligned}
 \frac d{dx}\text{arccot }x&= -\frac1{1+x^2}
-\end{align*}$$
+\end{aligned}
+$

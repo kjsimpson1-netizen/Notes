@@ -5,6 +5,8 @@ y=x/{(x^2-1)}
 (Example Graph $f(x)=\frac x{(x^2-1)}$ 
 ## Limit
 We can also see this as a [[Limit]], because the [[Limit]] as the function approaches the value (but doesn't reach it) will approach [[Infinity]].
-$$\begin{align*}
+$
+\begin{aligned}
 \lim_{x\rightarrow a}f(x)&= \pm\infty
-\end{align*}$$
+\end{aligned}
+$

@@ -1,5 +1,6 @@
-$$
+This is a test file
+$
 \begin{aligned}
-F &= ma
+F&=ma
 \end{aligned}
-$$
+$

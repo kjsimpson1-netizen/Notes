@@ -1,7 +1,9 @@
   This is a more accurate version of a [[Taylor Polynomials]], where the [[Taylor Polynomials]] are taken as $n\rightarrow\infty$.
-$$\begin{align*}
+$
+\begin{aligned}
 f(x)&= \sum_{k=0}^{\infty}\frac{f^{(k)}(a)}{k!}\cdot(x-a)^k
-\end{align*}$$
+\end{aligned}
+$
 Giving us a perfect approximation of the function. In order for the Taylor series to be taken, the function must be infinitely differentiable at $x=a$ and have a non-zero [[Radius of Convergence]]. These also have the property of allowing us to calculate the nth order derivative, as we can represent the function with both the Taylor series and the [[Power Series]], and then solve for the desired derivative.
 Another useful application is computing the asymptotic behavior, as the Taylor series often has an asymptote that is easier to see than the function. 
 $$

@@ -1,7 +1,9 @@
 In order to find the potential of a given equation $F$, we must first ensure that it is conservative (i.e. the [[Curl]] is 0). From there, we will have an expression of the form:
-$$\begin{align*}
+$
+\begin{aligned}
 \nabla F=\vec f
-\end{align*}$$
+\end{aligned}
+$
 We can solve this by antidifferentiation.
 >[!Note]
 >This takes an **extremely** similar solution to that of solving an [[Exact Equation]].

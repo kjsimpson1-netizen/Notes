@@ -6,9 +6,11 @@ left=-5;right=5;
 ```
 (Graph of the function $f(x)=\frac1x$)
 The notation to signify that it is a one sided limit is the "+" or the "-" located above the value of the [[Limit]]
-$$\begin{align*}
+$
+\begin{aligned}
 \lim_{x\rightarrow0^+}f(x)&= \infty\\
 \\
 \lim_{x\rightarrow0^-}f(x)&= -\infty
-\end{align*}$$
+\end{aligned}
+$
 The values that the one sided limits will be located at are at [[Vertical Asymptotes]] 

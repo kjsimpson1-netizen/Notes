@@ -4,8 +4,10 @@ This causes the two waves to periodically change from being in phase when the tw
 y=2.5\sin(10x)+2.5\sin(9x)
 ```
 Each one of these groupings of sound waves are one beat, and then frequency of one beat is equal to the difference of the two different frequencies of the waves.
-$$\begin{align*}
+$
+\begin{aligned}
 f_\text{beat}&= f_\text{a}-f_\text b\\
 \hline\\
 f&= \text{Frequency}
-\end{align*}$$
+\end{aligned}
+$

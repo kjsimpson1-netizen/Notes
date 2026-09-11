@@ -1,8 +1,10 @@
    The [[voltage]] drop across an [[Inductor]] is given by the expression:
-$$\begin{align*}
+$
+\begin{aligned}
 V_L&= L\frac{dI}{dt}\\
 \hline\\
 V_L&= \text{Voltage}\\
 I&= \text{Current}\\
 t&= \text{Time}
-\end{align*}$$
+\end{aligned}
+$

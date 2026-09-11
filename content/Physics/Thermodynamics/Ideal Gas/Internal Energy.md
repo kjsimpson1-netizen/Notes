@@ -8,7 +8,9 @@ Since summing up all the individual energies of every particle in an object woul
 >The internal energy of a system is determined solely by the temperature and how many moles are present, not by the pressure or the volume that it occupies
 
 ## Equation of $\Delta U$
-$$\begin{align*}
+$
+\begin{aligned}
 \Delta U&= nC_vT\\
 U&= \frac32nRT
-\end{align*}$$
+\end{aligned}
+$

@@ -8,9 +8,11 @@ This is the symbol "$\exists$" and this also adds context, and it is read as "th
 >Letting $P(x)$ be an [[Open Statements]] over the domain $A$, then the following holds with it's [[Negation]]:
 >
 >
-$$\begin{align*}
+$
+\begin{aligned}
 \sim(\forall \in A,P(x))\quad&\equiv\quad\exists \in A\;st\;\sim(P(x))\\
 \sim(\exists \in A\;st\;(P(x)))\quad&\equiv\quad\forall \in A,\sim P(x)
-\end{align*}$$
+\end{aligned}
+$
 ## Nested Quantifiers
 In general, qualifiers do not commute and the order matters. We go in order from left to right. 
