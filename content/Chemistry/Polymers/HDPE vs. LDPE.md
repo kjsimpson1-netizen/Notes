@@ -1,0 +1,5 @@
+These will both use the exact some monomer, but there is a difference in the polymerization that will cause vast differences:
+## HDPE
+This will be formed by using the same monomer, however this will be formed using a method using low branching. This can be done using catalysts that will decrease the branching. This causes the polymers to stack well, and this will cause the density of the [[Polymers]] to be high. This will cause the polymer to have high strength and low flexibility.
+## LDPE
+This will also be formed using the same monomer, but for this polymerization, the method used will encourage [[Branched]] [[Polymers]]. This will cause the density of the [[Polymers]] to decrease, as there is more space in between the polymer chains. This will make the polymer much more flexible, but have lower relative strength with respect to HDPE. 

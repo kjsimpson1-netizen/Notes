@@ -1,0 +1,3 @@
+While generating ideas, it is the best to have a wide range of ideas, in the shortest period of time; however, we do not want to cut off the idea generation to early, as we may lose valuable ideas.  The more ideas that are generated, the better. Each idea will not have the same probability of working later in the [[Design Process]], and each one will have different strengths and weaknesses. 
+## Anchoring
+We also don't want to get stuck on a single type of solution, as if one of the solutions doesn't work for some reason, it is more likely that none of them will. This is known as ***anchoring*** or ***fixation***.

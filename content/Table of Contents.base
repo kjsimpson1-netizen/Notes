@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      not:
+        - file.inFolder("1-General")
+        - file.inFolder("2-Homework")
+    order:
+      - file.name
+      - file.ctime
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: ASC
+    columnSize:
+      file.name: 196
+      file.ctime: 174
+  - type: cards
+    name: View
+  - type: table
+    name: projections

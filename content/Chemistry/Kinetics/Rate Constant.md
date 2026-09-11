@@ -1,0 +1,1 @@
+This is constant for any given reaction, and each reaction will have it's own specific rate constant. It is represented by the symbol $k$, and it's units change based upon the [[Reaction Order]], with the overall [[Rate Law]] being in moles per unit time. 

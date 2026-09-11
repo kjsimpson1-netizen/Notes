@@ -1,0 +1,1 @@
+This is any motion that is repeated in a well defined period. The simplest version of this is a [[Simple Harmonic Motion]].

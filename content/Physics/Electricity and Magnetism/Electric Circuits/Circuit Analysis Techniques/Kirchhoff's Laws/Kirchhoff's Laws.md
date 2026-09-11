@@ -1,0 +1,1 @@
+These are the laws that will allow us to analyze a circuit to find the voltages and the currents throughout. These laws work for [[Alternating Current]] as well as [[Direct Current]], however when doing it with [[Alternating Current]], the [[Voltage]] and the [[Current]] must be taken as vectors in the complex plane. 

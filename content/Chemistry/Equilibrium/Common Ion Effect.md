@@ -1,0 +1,1 @@
+This is when there is already one of the ions in a given solute previously present in the solution that in which the dissolving is occurring. We can still use the [[Solubility]] of the solution to calculate this, however we must include the already present amount of a given ion in the calculation as well. 

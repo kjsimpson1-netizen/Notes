@@ -1,0 +1,1 @@
+This is the amount of molecules that react in the reactants in any given [[Elementary Steps]]. If there is only one, then it is unimolecular, two is bimolecular, 3 is termolecular and anything above that is extremely uncommon. 

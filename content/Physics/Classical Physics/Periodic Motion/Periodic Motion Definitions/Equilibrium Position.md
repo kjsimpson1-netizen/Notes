@@ -1,0 +1,1 @@
+This is the point where the net force acting upon the object is 0, and the point around which the object in [[Simple Harmonic Motion]] will oscillate. This is also where the speed of the object is the greatest, and the reference position and the acceleration are 0. 

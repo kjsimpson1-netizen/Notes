@@ -1,0 +1,1 @@
+These are the lines on the graph where the derivatives ($x$ and $y$) are equal to zero. For a [[System of Differential Equations]], we can state that this is where the two lines of the equation are equal to zero, and whenever the $x$ and $y$ nullclines intersect, this is a critical point.

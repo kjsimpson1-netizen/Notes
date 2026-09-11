@@ -1,0 +1,1 @@
+This is a method to quantify the overall risk. This is done by having the severity and the likelihood as two axes, each from 1 to any number, and the product of the two ratings being the overall risk. This is similar to a [[Weighted Decision Matrix]] for [[Scoring]].

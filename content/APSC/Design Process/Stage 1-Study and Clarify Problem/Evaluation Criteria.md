@@ -1,0 +1,1 @@
+These are measure that distinguish between levels of performance, and are [[Needs]] that [[Stakeholders]] will have that are objective, as in the more/less of it there is, the better. A good example of this is how much somethings costs. While there may be an upper threshold value as [[Requirements]] to be met, the lower the cost, the better. 

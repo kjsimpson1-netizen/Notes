@@ -1,0 +1,1 @@
+These correspond to the [[Bohr Model]] of the atom, with the discrete particles of electrons rather than the wave model.

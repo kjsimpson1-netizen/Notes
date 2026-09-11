@@ -1,0 +1,3 @@
+This is how we determine whether or not a reaction will be spontaneous or not. If the change in [[Chemistry/Entropy/Entropy]] is positive, and the randomness increases, then the reaction will be spontaneous, and if it is negative, then the reaction will not occur whatsoever. We can declare that the $\Delta S_\text{universe}$ is equal to the summation of the $\Delta S_\text{system}$ and $\Delta S_\text{surroundings}$.
+We can also look at the change of [[Chemistry/Entropy/Entropy]] more qualitatively. We can say that the change in [[Chemistry/Entropy/Entropy]] increases with either an increase of volume, going from a more organized to less organized state, or a more massive molecule. 
+We can also rewrite the 

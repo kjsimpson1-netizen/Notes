@@ -1,0 +1,1 @@
+It is important that engineers know how to represent and understand standardized drawings of 3D shapes onto 2D surfaces. There are several different kinds of engineering drawings, such as [[Isometric Projections]] and [[Three-view Orthographic Projection]]. These also follow the [[Engineering Drawing Layout]] with all the title blocks and other key details. 

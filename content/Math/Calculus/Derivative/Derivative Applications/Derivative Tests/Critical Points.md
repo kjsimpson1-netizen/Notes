@@ -1,0 +1,1 @@
+These are points where the first [[Derivative]] ,$f'(x)$  is equal to 0, are called critical points, and this is where the original graph is completely flat. These are useful for doing any [[First Derivative Tests]].

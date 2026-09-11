@@ -1,0 +1,1 @@
+This states that when there is no [[Heat]] flow, or no $\Delta$T. If object A and B are in [[Thermal Equilibrium]], they have the same temperature, and B and C are in [[Thermal Equilibrium]], then A and C are in [[Thermal Equilibrium]].

@@ -1,0 +1,1 @@
+These are the points of a [[Standing Wave]] that are invariant of their position, as the summation of the [[Superposition of Waves]] at that point is undergoing destructive [[Interference]]. This means that whatever the property that is transverse to the [[Mechanical Waves]] will be 0 at that given point

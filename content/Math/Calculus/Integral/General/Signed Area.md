@@ -1,0 +1,1 @@
+Any integral above the x-axis will have a positive value (provided that the [[Bounds]] follow $a\le b$), and that the integral below the axis will have a negative value. This is where the integral is different than area, as area must always be positive and an integral can be signed. 

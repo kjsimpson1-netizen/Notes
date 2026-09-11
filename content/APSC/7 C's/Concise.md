@@ -1,0 +1,1 @@
+This means that the communication is brief and effective

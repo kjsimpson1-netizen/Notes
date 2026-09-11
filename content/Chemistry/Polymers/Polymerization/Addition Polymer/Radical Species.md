@@ -1,0 +1,1 @@
+These are any molecule that has a missing electron in a lone pair, causing it to have a high affinity for electrons. These are creating by having specific molecules exposed to energy or light, causing a [[Chemistry/Atomic Structure and Properties/Bond/Bond]] to break and form two free radical species. 

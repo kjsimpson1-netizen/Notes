@@ -1,0 +1,1 @@
+These are the points of a [[Standing Wave]] that will undergo the highest amount of change, and this is where the summation of the [[Superposition of Waves]] will have the largest value, and therefore will have the greatest [[Amplitude]] of whatever quantity is transverse to the wave motion. 

@@ -1,0 +1,1 @@
+This means that the communication has adequate detail and the main point is clearly evident

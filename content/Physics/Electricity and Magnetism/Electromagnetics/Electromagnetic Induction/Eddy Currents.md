@@ -1,0 +1,1 @@
+These are the currents in a material that are caused through electromagnetic induction that have the pattern of swirling eddies on water. These are created when there are sections of a metal that have a [[Magnetic Field]] in them with some sections that don't. In the sections between, these eddies will form, and their direction will be determined by [[Lenz's Law]].

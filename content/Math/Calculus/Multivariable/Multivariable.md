@@ -1,0 +1,1 @@
+This is the same thing as regular calculus ([[Integral]] and [[Derivative|Derivatives]]) however with multiple variables instead of just 1.  

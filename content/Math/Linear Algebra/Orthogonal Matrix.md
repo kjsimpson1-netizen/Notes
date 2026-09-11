@@ -1,0 +1,1 @@
+A matrix is orthogonal if the [[Inverse Matrices]] multiplied by the [[Transposition]], this is equal to a [[Identity Matrix]], or equivalently the [[Inverse Matrices]] is equal to the [[Transposition]]. 

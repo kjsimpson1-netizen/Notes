@@ -1,0 +1,1 @@
+This means the communication is polite, respectful, genuine, and sincere

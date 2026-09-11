@@ -1,0 +1,3 @@
+The bond energy that is released when the [[Bond]] is made is caused by the lowering of the Potential Energy of the molecules (the molecules are in a more stable arrangement). Since energy is released, this is an [[Chemistry/Basic Chemistry/Exothermic]] reaction. 
+This is equal to the amount of energy required to break the [[Bond]]. When these bonds are formed, there is energy released, therefore this is an exothermic process. 
+The factors that will effect the bond energy are the differences in [[Chemistry/Atomic Structure and Properties/Periodic Properties/Electronegativity]] and the [[Bond Order]]. The higher that both of these are, the higher the bond energy will be. 

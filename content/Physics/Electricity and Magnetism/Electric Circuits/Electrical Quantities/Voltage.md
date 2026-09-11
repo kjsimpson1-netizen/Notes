@@ -1,0 +1,1 @@
+This is the electrical "pressure", and this is the energy per one coulomb of charge. Voltmeters are wired in parallel, because they check the voltage before and after the [[Resistor]], or the voltage drop. 

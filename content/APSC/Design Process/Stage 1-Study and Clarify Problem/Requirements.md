@@ -1,0 +1,1 @@
+These are [[Needs]] that [[Stakeholders]] have that are a pass-fail qualification of a product. These can be thought of as the must-have features, or the threshold values of the product in order for [[Stakeholders]] to consider the product acceptable.

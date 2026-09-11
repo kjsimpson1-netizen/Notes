@@ -1,0 +1,1 @@
+This is abbreviated to emf, and this is the place in electric circuits where the change in electrical potential is introduced to induce a [[Current]] in the circuit. These have the same units as [[Voltage]], with volts, or joules per coulombs, and is generally represented by $\mathcal{E}$.

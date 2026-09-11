@@ -1,0 +1,1 @@
+This theorem states that a collection of point charges cannot be in electrostatic equilibrium solely by [[Coulomb's Law]].

@@ -1,0 +1,1 @@
+Direct current, or DC, is when there is a constant [[Current]] or [[Voltage]] being provided in one direction, by a battery or any constant power supply. These can be provided by either a voltage or a current source. 

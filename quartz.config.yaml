@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: https://github.com/kjsimpson1-netizen/Notes
+  baseUrl: kjsimpson1-netizen.github.io/Notes
   ignorePatterns:
     - private
     - templates

@@ -1,0 +1,1 @@
+Two [[Matrix]] are called similar if they have the same [[Rank]], then same [[Determinant]], the same [[Trace]]. They will also have the same [[Eigenvalues]], however they may have different [[Eigenvalues|Eigenvectors]]. 

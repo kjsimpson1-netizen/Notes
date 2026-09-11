@@ -1,0 +1,3 @@
+This is where we look at the life cycle and determine a system boundary, which are which aspects of the product lifecycle we will be considering. From there, we need to look at the general energy inputs into the system and the usable and unusable by-products of the system. 
+### Functional Units
+These are a reference measure of performance to use as a baseline for comparing products and they are a reference quantity that is used to measure and normalize performance of alternatives we are considering. These used determine how many/much of each option provide the same overall function

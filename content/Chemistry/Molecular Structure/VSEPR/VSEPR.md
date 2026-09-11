@@ -1,0 +1,1 @@
+VSPER stands for "valence shell electron pair repulsion". This is the theory that allows us to predict the actual shapes that result from the [[Chemistry/Molecular Structure/Lewis Structures/Lewis Structures]]. It used the concept that the electrons will be as far away from each other as possible. We draw these using [[Perspective Diagrams]] to show us the resulting shape. 

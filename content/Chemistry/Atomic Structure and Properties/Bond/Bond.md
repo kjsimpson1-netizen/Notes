@@ -1,0 +1,1 @@
+A chemical bond is the association of atoms or ions to form molecules, crystals, and other structures. The bond may result from the [[Chemistry/Coulomb Forces]] between oppositely charged ions as in [[Ionic Bonds]] or through the sharing of electrons as in [[Covalent Bonds]], or some combination of these effects.

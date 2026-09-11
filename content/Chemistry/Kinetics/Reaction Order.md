@@ -1,0 +1,1 @@
+This is the power to which each of the reactants are raised to, and this is not the same as the stoichiometric coefficients (except if it is a [[Elementary Steps]]) and rather they are found experimentally. 

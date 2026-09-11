@@ -1,0 +1,1 @@
+The mole is a unit of measurement, the base unit in the International System of Units for amount of substance, a quantity proportional to the number of elementary entities of a substance. One mole contains exactly 6.02214076×10²³ elementary entities, which can be atoms, molecules, ions, ion pairs, or other particles.

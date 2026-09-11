@@ -1,0 +1,1 @@
+This is the process after [[Screening]] in the [[Design Process]]. We can now sort the remaining ideas in terms of the [[Evaluation Criteria]], with whichever one meets the most ranking the highest overall. This step should be done quickly and qualitatively, without testing any concept in detail

@@ -1,0 +1,1 @@
+This is a true statement that helps us prove a more interesting result (i.e. a [[Theorem]] or a [[Corollary]]).

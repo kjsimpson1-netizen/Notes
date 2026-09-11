@@ -1,0 +1,1 @@
+This is any reaction in which there is energy given off due to the chemicals reaching a more stable state. The change in [[Chemistry/Thermodynamics/Enthalpy]] of these reactions are negative as the energy overall leaves the reactants. 

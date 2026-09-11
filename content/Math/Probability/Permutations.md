@@ -1,0 +1,3 @@
+A permutation is the amount of unique ways that a set can be arranged. The amount of permutations for a given set size is the factorial of the set size ($n!$) 
+## Odd/Even
+A permutation being odd or even depends upon the amount of switches required to return it to the original form. If it takes an even amount of switches, then the permutation is even, and if the amount of switches is odd, then the permutation is odd. 

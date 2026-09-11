@@ -1,0 +1,1 @@
+This is what forms when a [[Condensation Polymer]] is formed as a by-product. This will either by water or hydrochloric acid. The condensate is determined by the [[Functional Groups]] that are present, if it's an acyl chloride then it will form a hydrochloric acid, and if it's a carboxylic acid, then it will form water

@@ -1,0 +1,1 @@
+These are the trends that are present on the [[Chemistry/Basic Chemistry/Periodic Table]] that allow us to characterise that elements and ions easily. 

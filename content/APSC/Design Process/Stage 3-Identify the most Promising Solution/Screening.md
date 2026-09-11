@@ -1,0 +1,1 @@
+This is the process in which ideas that are generated in stage 2 of the [[Design Process]] are subjected to the pass-fail [[Requirements]] generated in stage 1. If a certain idea can not be made to pass the [[Requirements]], no matter how good the idea is, it can not be allowed to continue on in the [[Design Process]].

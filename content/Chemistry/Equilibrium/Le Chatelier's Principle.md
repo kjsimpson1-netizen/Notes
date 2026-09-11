@@ -1,0 +1,1 @@
+This is the principle that any chemical reaction in [[Chemistry/Equilibrium/Equilibrium|Equilibrium]] given a stress will shift to undo that stress. The primary stresses that a system will undergo are changes in temperature, in pressure or in concentration.  

@@ -1,0 +1,1 @@
+This is the function that is used in the [[Direct Comparison Test]] and the [[Limit Comparison Test]] to evaluate whether or not the [[Improper Integral]] will converge or diverge. This function is chosen such that we can see easily whether or not the chosen function will converge or diverge, and have it behave similarly enough to the original function to bound it.

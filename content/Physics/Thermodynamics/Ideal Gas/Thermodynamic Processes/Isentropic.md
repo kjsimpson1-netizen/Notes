@@ -1,0 +1,1 @@
+This is when there is no change of entropy during a thermodynamic process. These are usually plotted on the T-S diagram, with it being characterized by a completely vertical line, as there is no change in the entropy which is the x-axis. 

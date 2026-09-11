@@ -1,0 +1,1 @@
+This states that the [[Physics/Thermodynamics/Entropy/Entropy|Entropy]] of a perfect crystal is 0. This is the absolute reference point for [[Physics/Thermodynamics/Entropy/Entropy|Entropy]] values since every value is measured from a temperature of absolute zero. 

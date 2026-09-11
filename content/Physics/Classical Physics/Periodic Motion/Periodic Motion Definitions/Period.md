@@ -1,0 +1,1 @@
+This is the amount of time that it takes anything to complete one full cycle. The units for period are seconds, and this can be interpreted from a sine function as the distance between two peaks. This is inversely related to [[Frequency]]. 

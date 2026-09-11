@@ -1,0 +1,1 @@
+These are [[Lewis Structures]] that do not have all the electron pairs shown, and rather just the atoms that are present with the [[Chemistry/Atomic Structure and Properties/Bond/Covalent Bonds]] shown as well, these can be single bonds, double bonds etc.

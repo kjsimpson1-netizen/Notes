@@ -1,0 +1,1 @@
+These are solutions in which the solution is still in terms of both $x$ and $y$ as the variables are not separable. These can be represented by [[Math/Differential Equations/Solving Methods/Ordinary Differential Equations/Slope Fields|Slope Fields]], however they cannot be solved analytically. 

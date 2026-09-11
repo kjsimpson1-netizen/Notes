@@ -1,0 +1,2 @@
+This is any range of values. It can have multiple notations, such as $(x,y)$, with round brackets representing an interval not including the end point, and hard brackets indicating the inclusion of the end point. 
+This can also be done with a different notation, $a\ge x\ge b$.

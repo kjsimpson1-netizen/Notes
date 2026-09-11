@@ -1,0 +1,3 @@
+An isotope is any element that contains a abnormal quantity of neutrons in the nucleus. 
+## Isotope Notation
+This is the [[Elemental Notation]] for different isotopes of elements, with differing numbers of neutrons. For example, Carbon-14, an isotope of carbon with 14 nucleons rather than the usual 12, is a radioactive isotope of carbon that can be represented in isotope notation as $^{14}C$, with the number of nucleons on the top. It can also be written as $^{14}_6C$, with the 6 denoting the number of protons; however, this is optional as the 6 protons can also be inferred by the fact that it is carbon, as the number of protons is the defining characteristic of an element.

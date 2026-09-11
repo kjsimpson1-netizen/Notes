@@ -1,0 +1,1 @@
+Thermodynamics is anything that deals with [[Force]], [[Work]] or any sort of change that occurs due to changes in temperature. Some examples of this are [[Latent Heat]], [[Linear Expansion]], [[Volumetric Expansion]], [[Thermal Stress]] and much more.

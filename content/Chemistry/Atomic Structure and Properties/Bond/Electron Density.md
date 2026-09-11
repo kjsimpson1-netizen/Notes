@@ -1,0 +1,1 @@
+Electron density is the probability that an electron will be present in a given area of a molecule. Atoms with higher [[Chemistry/Atomic Structure and Properties/Periodic Properties/Electronegativity]] in [[Covalent Bonds]] will have greater electron density because the electrons have a higher tendency to spend time around them. 

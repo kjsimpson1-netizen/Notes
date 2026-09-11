@@ -1,0 +1,3 @@
+Inductors operate on the principle that a [[Current]]-carrying wire generates a [[Magnetic Field]]. When the [[Current]] changes, this changing magnetic field induces a [[Magnetic Flux]], and therefore a [[Voltage]] (or EMF) opposing the change in [[Current]], as described by [[Faraday's Law]]. Inductors use this property to store energy in their magnetic fields. The purpose of inductors is for regulating the [[Current]] in electric circuits. The measurement for an inductor is it's [[Inductance]] and the units for [[Inductance]] are the *Henry*.
+>[!Note]
+>These are the opposite of [[Capacitor]]: they initially have infinite "resistance" and this drops to 0 after a long time

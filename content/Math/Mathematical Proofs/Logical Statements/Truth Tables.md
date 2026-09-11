@@ -1,0 +1,1 @@
+These are tables that take in operations and show their truth value. These are useful in characterizing complicated truth values. 

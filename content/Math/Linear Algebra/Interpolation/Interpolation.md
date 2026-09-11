@@ -1,0 +1,1 @@
+Interpolation is trying to make a function to fit a set of given data points that models that true function. There are an infinite different numbers of ways to interpolate a set of data, and we must set constrains on the solutions in order to get a function. 

@@ -1,0 +1,1 @@
+This is the measure of momentum that a object has when it is travelling in a [[Circular Motion]]. This is represented by $L$, and it depends on the objects rotational inertia, and the objects rotational velocity. Since this depends on both the magnitude and the direction, it is a vector quantity.

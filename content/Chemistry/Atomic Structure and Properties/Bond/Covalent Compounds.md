@@ -1,0 +1,1 @@
+A covalent compound is a group of atoms that have [[Covalent Bonds]]. [[Covalent Bonds]] are a chemical [[Bond]] that involves the sharing of electrons to form electron pairs between atoms. These electron pairs are known as shared pairs or bonding pairs. The stable balance of attractive and repulsive forces between atoms, when they share electrons, is known as a covalent bond

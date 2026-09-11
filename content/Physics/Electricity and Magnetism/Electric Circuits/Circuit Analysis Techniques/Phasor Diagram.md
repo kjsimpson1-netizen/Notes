@@ -1,0 +1,3 @@
+These are very useful tools to analyze [[Alternating Current]] circuits which can be very complicated otherwise to evaluate. These can be drawn as vectors on a complex plane, where the voltage of the [[Resistor]] is in phase with the [[Current]], and the [[Inductor]] and [[Capacitor]] voltages are ahead and behind $90\degree$ respectively. The source voltage can also be put on here, and it will be the [[Phase Angle]] off of the source current. 
+## Impedance Triangle
+Using this, we can also draw an impedance triangle, with the overall [[Impedance]] of the circuit being the vector addition of the [[Inductive Reactance]], [[Capacitive Reactance]] and [[Resistance]]. From this, we can also find the [[Phase Angle]] and the [[Power Factor]] of the circuit. 

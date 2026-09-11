@@ -1,0 +1,1 @@
+The number that is on any plastic denotes the type of [[Chemistry/Polymers/Polymers]] that are present in the plastic. Each different plastic have different properties. 

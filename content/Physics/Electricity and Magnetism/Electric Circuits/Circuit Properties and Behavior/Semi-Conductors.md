@@ -1,0 +1,1 @@
+These are usually [[Dielectric]], however at certain temperatures they will become conductors and this is a crucial feature for electronics.

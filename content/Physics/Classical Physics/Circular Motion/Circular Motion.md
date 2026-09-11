@@ -1,0 +1,1 @@
+**Circular motion** is the movement of an object along a circular path. In circular motion, the object continuously changes direction to stay on the circular trajectory, which requires a constant inward [[Force]] directed toward the centre of the circle.

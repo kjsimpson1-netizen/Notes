@@ -1,0 +1,1 @@
+The volatility of a substance depends on the [[Intermolecular Forces]]. The stronger the [[Intermolecular Forces]], the less volatile that it is because the substance is held together better, and the opposite is true for more volatility. 

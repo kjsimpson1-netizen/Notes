@@ -1,0 +1,2 @@
+The force that holds molecules together are called intramolecular forces, and the forces that interact between the molecules are called intermolecular forces. 
+These intermolecular forces determine the state, the boiling point, and the freezing point. The amount of energy required to break the intermolecular bonds are lower than their respective intramolecular bonds. If these interactions get weaker, then the molecule changes phase into a gas. We cannot directly measure these quantities, but we can indirectly measure them through the boiling and freezing points. 

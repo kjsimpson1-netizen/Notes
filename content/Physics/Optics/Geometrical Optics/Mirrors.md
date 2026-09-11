@@ -1,0 +1,2 @@
+The [[Focal Length]] for mirrors is equal to half of it's radius. If a mirror is concave, then it will converge all of the light rays, whereas if it were convex, it will diverge all of the light rays. All of the equations for [[Lenses]] will also work for mirrors, with the convex (diverging mirrors) having the negative [[Focal Length]].  
+For mirrors, when objects, images or focal points are on the shiny side of the mirror, then the distances area positive. 

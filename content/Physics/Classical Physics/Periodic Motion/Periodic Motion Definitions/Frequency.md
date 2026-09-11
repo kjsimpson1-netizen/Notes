@@ -1,0 +1,1 @@
+This is the amount of cycles per second that an object will complete. The units for this are either reciprocated seconds ($s^{-1}$) or more commonly Hertz ($Hz$). This is inversely related to [[Period]].

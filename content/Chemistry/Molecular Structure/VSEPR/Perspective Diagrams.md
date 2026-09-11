@@ -1,0 +1,1 @@
+A perspective diagram is a three-dimensional representation of a molecule in space. A solid wedge symbolizes the bond coming out of the page, and a dashed wedge represents the atom going into the page. When drawing a perspective diagram, we do not need to show lone pairs and multiple bonds. 

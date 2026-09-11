@@ -1,0 +1,1 @@
+These are either the end of a defined [[Interval]], or the end of the domain on which the function is defined on. 

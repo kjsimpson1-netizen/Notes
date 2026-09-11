@@ -1,0 +1,1 @@
+If a [[Sets|Set]] contains a certain [[Elements|Element]], we can use the symbol $\in$ to denote that the [[Elements|Element]] $b$ is in [[Sets|Set]] $B$. The opposite of this is $\notin$, indicating that the set does not contain it. 

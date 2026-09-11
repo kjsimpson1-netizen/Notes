@@ -1,0 +1,3 @@
+This is [[Heat]] that is given from the movement of mass of a fluid from one region of space to another. Some examples of this are like fluid circulated by a pump, called <i>forced convection</i>, and if the flow is caused by differences in thermal expansion such as hot air rising, this is called <i>free convection</i>.
+This [[Heat]] that is transferred due to convection is directly proportional to the surface area.
+Free convection also occurs when a pot boils, the hotter fluid has a greater volume with the same mass, therefore it is less dense. This less dense fluid will then rise to the top, cooling and becoming denser, then sinking again. This motion also causes overall heating of the fluid. 

@@ -1,0 +1,1 @@
+This is a measure of the randomness of a system. 

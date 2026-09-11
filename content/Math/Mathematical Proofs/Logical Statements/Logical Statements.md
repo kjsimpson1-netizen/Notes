@@ -1,0 +1,1 @@
+[[Mathematical Proofs]] are often done by using smaller statements to prove larger ones. A statement is a sentence that is either true or false, not both and not neither. (this is a loose definition)

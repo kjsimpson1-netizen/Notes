@@ -1,0 +1,1 @@
+This is a circuit element that only allows the [[Current]] through it to flow one direction (providing the backwards current doesn't overcome the back voltage threshold in real, non ideal diodes). These also take a certain amount of [[Voltage]] drop to be activated, and until the voltage overcomes this, there will be no [[Current]] flow through it. 

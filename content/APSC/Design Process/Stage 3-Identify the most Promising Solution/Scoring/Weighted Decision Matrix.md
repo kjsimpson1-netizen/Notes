@@ -1,0 +1,7 @@
+This is a method of [[Scoring]] in the [[Design Process]]. 
+While we start making our weighted decision matrix, we will talk to the [[Stakeholders]] and get a weight for each one of the evaluation criterion, determining which of the above is the most important to them. This is important because even though a concept may check the most boxes, if it performs poorly in the most important one, the rest are not as relevant. We can then give each of the evaluation criterion a score from 0-10, based on how satisfied the [[Stakeholders]] would be with the proposed solution. 
+### Weighted Scores
+We can then multiply each of the scores received by it's respective weight to get it's weighted score
+Summing together all of the weighted scores, we can get the weight total, with the highest one being the best score. 
+## Sensitivity Analysis
+This is an analysis of how sensitive the total weighted scores are to a change in weighting or score. Ideally, small changes to the weights and the scores wouldn't have an overall change in which of the solutions is the most promising. However, if there is not massive difference in the summation of the weighted scores when moving around the weights and scores, then all of the options should be considered almost equal, as this is no definite best option. 

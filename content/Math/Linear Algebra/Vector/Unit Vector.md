@@ -1,0 +1,1 @@
+A unit vector is any [[Vector]] who's [[Norm]] is equal to 1. These are very useful in combination with the [[Cartesian Coordinates]], as you can break down the vector into it's 3 components. 
