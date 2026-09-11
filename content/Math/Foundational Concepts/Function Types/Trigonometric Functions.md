@@ -14,18 +14,14 @@ This is the exact same as $\sin(x)$, but translated $\frac12\pi$ radians left. T
 \tan(x)
 ```
 As this is the [[Rational Functions]] of $\sin(x)$ and $\cos(x)$, we can see where the function approaches [[Infinity]] and will have [[Vertical Asymptotes]] due to the denominator, $\cos(x)$ approaches 0, which can be expressed by:
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 x&= n\pi+\frac12\pi
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$
 However it's range spans all real numbers. It passes through the origin, as $\sin(x)$ is 0 here. The function also is equal to $\pm1$ when the two functions are equivalent, which occurs when:
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 x&= \frac14n\pi+\frac14
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$

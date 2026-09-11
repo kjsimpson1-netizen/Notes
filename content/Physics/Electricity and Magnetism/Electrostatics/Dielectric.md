@@ -4,29 +4,25 @@ This is the material used in between the [[Conductor]] plates in [[Capacitor]]. 
 This phenomenon is called the *dielectric breakdown* which will cause [[Corona Discharge]] in air, when the dielectric becomes polarized enough that it conducts electricity. Many material tolerate higher [[Electric Field]] than air without breaking down, and the amount of [[Electric Field]] they can withstand is called the medium's dielectric strength.
 ## Permittivity
 This is the ability of a medium to act as a dielectric, and it is represented by:
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 \epsilon&= \kappa \epsilon_0\\
 \hline\\
 \epsilon&= \text{Permittivity}\\
 \kappa &= \text{Dielectric Constant}\\
 \epsilon_0&= \text{Electric Constant}\\
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$
 >[!Note]
 >The dielectric constant is dependant upon the medium
 ## Energy Density
 We can also represent the electric energy density in a dielectric by:
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 u&= \frac12\kappa\epsilon_0E^2\\
 \hline\\
 u&= \text{Energy Density}\\
 \kappa&= \text{Dielectric Constant}\\
 E&= \text{Electric Field}
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$

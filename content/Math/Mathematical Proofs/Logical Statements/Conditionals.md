@@ -11,10 +11,8 @@ These are [[Logical Statements]] that takes the form "if P is true/false then Q"
 | F   | T   | T             |
 | F   | F   | T             |
 This is only false when the implication is true and the conclusion is false. We can also write this using a [[Conjunction]]:
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 P\implies Q\equiv (\sim P)\lor Q
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$

@@ -4,14 +4,12 @@ This is different than [[Chemistry/Basic Chemistry/STP]], as standard enthalpy s
 >$\Delta{ H^o}_{f,T}$ is 0 for all elements that are in standard state. 
 
 ## Formal Equation
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 \Delta{ H^o}&= \sum\limits v_p\Delta{ H^o}(\text{reactants})-\sum\limits v_p\Delta{ H^o}(\text{products})\\
 \hline\\
 v_p&= \text{Stoicheometric Coefficient}\\
 \Delta H^o&= \text{Standard Enthalpy of Formation}
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$
 We can also think of the products term as the bonds that are being formed, and the reactants are the bonds being broken,

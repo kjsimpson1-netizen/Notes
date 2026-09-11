@@ -1,12 +1,10 @@
 Ionization energy is the amount of energy to remove an electron from an atom in it's gaseous state, or the amount of energy to remove an electron from the valence band of the solid.
 There as many ionization energies as there are electrons, as each of the electrons can be removed. The electrons that are first removed are the [[Chemistry/Basic Chemistry/Valence Electrons]]. As we remove more and more electrons, the harder it is to remove them because the [[Atomic Radius]] decreases, and therefore the [[Effective Nuclear Charge]] increases. This will make the ionization energy increase because they are pulled harder by the [[Chemistry/Coulomb Forces]], and they want to stay there more. 
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 X(g)\rightarrow X^+(g)+e^-
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$
 
 ## How it changes
 ### Across a period

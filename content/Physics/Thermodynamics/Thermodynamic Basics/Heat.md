@@ -5,12 +5,10 @@ Objects approach [[Thermal Equilibrium]] due to the transfer of energy between t
 ## Calories
 We can define a unit of quantity of heat based on temperature changes on some specific material. For the calorie, this was the amount of heat to raise the temperature of 1 gram of water from 14.5$\degree$C to $15.5\degree$C. The value given on food is actually one kilocalorie, or 1 $kcal$. 
 Because heat is energy in transit, there are definite relationships between these amounts and other units for energy such as the joule:
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 1\text{ cal}&= 4.186\;J\\
 1\text{ kcal}&=4186\;J\\
 1\text{ Btu}&= 1055\;J 
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$

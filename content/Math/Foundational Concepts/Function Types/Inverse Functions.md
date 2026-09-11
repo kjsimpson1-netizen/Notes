@@ -1,11 +1,9 @@
 These are any function that has it's output equivalent to the input of the original function. The notation of these can take multiple forms, either:
-$
-$
-\begin{aligned}
+$$
+$$\begin{aligned}
 f^{-1}(x)\text{ or }f(y)
-\end{aligned}
-$
-$
+\end{aligned}$$
+$$
 with $f(x)$ being the original function. Another defining characteristic of these is that they are mirror from the original function over the line $y=x$. We can do this because it has the effect of swapping the x values and the y values.
 ```desmos-graph
 y=x | dotted
