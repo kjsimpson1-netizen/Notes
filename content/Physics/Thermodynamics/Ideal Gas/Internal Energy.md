@@ -9,8 +9,8 @@ Since summing up all the individual energies of every particle in an object woul
 
 ## Equation of $\Delta U$
 $$
-$$\begin{aligned}
+\begin{aligned}
 \Delta U&= nC_vT\\
 U&= \frac32nRT
-\end{aligned}$$
+\end{aligned}
 $$

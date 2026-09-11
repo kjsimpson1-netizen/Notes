@@ -7,17 +7,17 @@ Since all of this is true, there is no other conventional engine more efficient 
 ## Efficiency
 The efficiency of the Carnot cycle can be derived through many equations for the laws of thermodynamics. At the end, we will end up with the efficiency being equal to the ratio of the hot reservoir in to the cold reservoir. 
 $$
-$$\begin{aligned}
-e_\text{Carnot}&=1-\frac{T_C}{T_H} 
-\end{aligned}$$
+\begin{aligned}
+e_\text{Carnot}&=1-\frac{T_C}{T_H}
+\end{aligned}
 $$
 Therefore the efficiency of a [[Heat Engine]] can never be 100%, unless the temperature of the cold reserve is 0 (which is impossible).
 ## Coefficient of Performance
 We can also express the coefficient of a refrigerator, $K_\text{Carnot}$, with a similar expression:
 $$
-$$\begin{aligned}
+\begin{aligned}
 K_\text{Carnot}&= \frac{T_C}{T_H}-T_C
-\end{aligned}$$
+\end{aligned}
 $$
 This means that when the difference between the two temperatures is small, a lot of [[Heat]] can be pumped for little [[Work]]. However, the larger the difference in temperature, the more [[Work]] required to move the heat. 
 >[!Note]

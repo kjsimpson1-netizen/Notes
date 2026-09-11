@@ -1,13 +1,13 @@
 These obey the properties of [[Mechanical Waves]] and they have the same [[Travelling Wave Equations]] functions. However, we can also express these in terms of their [[Pressure]] differences:
 $$
-$$\begin{aligned}
+\begin{aligned}
 P_\text{max}(x,t)&= BkA\\
 \hline\\
 P_\text{max}&= \text{Max Pressure}\\
 B&= \text{Bulk Modulus}\\
 k&= \text{Wave Number}\\
 A&= \text{Displacement Amplitude}
-\end{aligned}$$
+\end{aligned}
 $$
 ## Pitch, Volume, and Timbre
 The maximal pressure also has a correlation to how loud a sound is perceived as, with the a greater pressure having a greater perceived volume, and this is measured using the [[Decibel Scale]]. However, even with the exact same [[Frequency]], a higher pressure will have a lower perceived pitch. 

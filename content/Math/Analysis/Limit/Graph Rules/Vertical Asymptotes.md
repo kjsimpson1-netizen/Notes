@@ -6,7 +6,7 @@ y=x/{(x^2-1)}
 ## Limit
 We can also see this as a [[Limit]], because the [[Limit]] as the function approaches the value (but doesn't reach it) will approach [[Infinity]].
 $$
-$$\begin{aligned}
+\begin{aligned}
 \lim_{x\rightarrow a}f(x)&= \pm\infty
-\end{aligned}$$
+\end{aligned}
 $$

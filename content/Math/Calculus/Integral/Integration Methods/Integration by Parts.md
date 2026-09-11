@@ -1,8 +1,8 @@
 This is the integration equivalent of the [[Product Rule]], and must be done to take the [[Antiderivative]] of any [[Product Rule]]. The formal notation of this using [[Leibniz Notation]] is:
 $$
-$$\begin{aligned}
+\begin{aligned}
 \int udv&= uv-\int vdu
-\end{aligned}$$
+\end{aligned}
 $$
 Where we can decide what our expressions for $u$ and $v$ will be. The expression for $u$ should be easily differentiable, and the expression for $v$ should have a simple [[Antiderivative]]. However, we also want to simplify the integral as much as possible and should take the most complicated part of the function to be differentiated.
 
@@ -10,7 +10,7 @@ Where we can decide what our expressions for $u$ and $v$ will be. The expression
 ## Examples
 ### Example 1
 $$
-$$\begin{aligned}
+\begin{aligned}
 &\textbf{Integration by Parts:} \quad \int x \cos(x) \, dx \\
 \hline\\
 &\text{Using the formula:} \quad \int u \, dv = uv - \int v \, du \\ 
@@ -25,7 +25,7 @@ $$\begin{aligned}
 &I = x \sin(x) + \cos(x) + C \\ 
 \hline\\
 &\textbf{Final Answer:} \quad \int x \cos(x) \, dx = x \sin(x) + \cos(x) + C
-\end{aligned}$$
+\end{aligned}
 $$
 ### Example 2
 #### Integration of $e^{\sqrt{x}}$
@@ -97,5 +97,4 @@ $$
 &\textcolor{blue}{\textbf{Step 6: Finalize the result}} \\
 &\quad \therefore \int x \cos(x) \, dx = x \sin(x) + \cos(x) + C.
 \end{aligned}
-$$
 $$

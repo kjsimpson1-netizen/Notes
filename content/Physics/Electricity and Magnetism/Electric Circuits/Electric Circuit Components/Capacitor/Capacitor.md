@@ -2,13 +2,13 @@ Capacitors will store electrical energy in the form of [[Electric Field]] betwee
 ## Electrical Charge
 The [[Electric Charge]] of the [[Capacitor]] can never truly reach the [[Voltage]] of the battery, as as the [[Electric Charge]] on the plates increases, so does the push against more charge being stored . The charge on the plate of the [[Capacitor]] is shown as a [[Voltage]]. The larger the capacitor the more coulombs of energy will be stored for the same input energy.
 $$
-$$\begin{aligned}
+\begin{aligned}
 q(t)&= C\cdot V(t)\\
 \hline \\
 q&= \text{Charge}\\
 C&= \text{Capacitance}\\
 V&= \text{Voltage}
-\end{aligned}$$
+\end{aligned}
 $$
 ---
 ## Ratios of Voltages when Charged

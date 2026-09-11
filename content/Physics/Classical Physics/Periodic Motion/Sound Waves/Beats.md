@@ -5,9 +5,9 @@ y=2.5\sin(10x)+2.5\sin(9x)
 ```
 Each one of these groupings of sound waves are one beat, and then frequency of one beat is equal to the difference of the two different frequencies of the waves.
 $$
-$$\begin{aligned}
+\begin{aligned}
 f_\text{beat}&= f_\text{a}-f_\text b\\
 \hline\\
 f&= \text{Frequency}
-\end{aligned}$$
+\end{aligned}
 $$

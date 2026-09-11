@@ -2,15 +2,15 @@ This is similar to the [[Parametric Formula]], however using the normal directio
 ## 2 Dimensional
 In the following, let $\vec p=(p_1,p_2)$ be the point and $\vec n=(n_1,n_2)$ be the normal direction.
 $$
-$$\begin{aligned}
+\begin{aligned}
 \boxed{\vec n\cdot (\vec x-\vec p)= 0}
-\end{aligned}$$
+\end{aligned}
 $$
 This equation states that the difference between any two points is perpendicular to the [[Vector]] $\vec n$. This can also be rewritten as:
 $$
-$$\begin{aligned}
+\begin{aligned}
 \boxed{\vec n\cdot \vec x=\vec n\cdot \vec p}
-\end{aligned}$$
+\end{aligned}
 $$
 ## 3 Dimensional
 This can also be used to express a line in 3 dimensions, however using the intersection line of two [[Planes]] in 3 dimensional space
@@ -19,7 +19,7 @@ This can also be used to express a line in 3 dimensions, however using the inter
 
 The equation for this is:
 $$
-$$\begin{aligned}
+\begin{aligned}
 0&= \begin{cases}
 \vec{n}_1\cdot(\vec x-\vec p)\\
 \vec{n}_2\cdot(\vec x-\vec p)
@@ -27,7 +27,7 @@ $$\begin{aligned}
 \hline\\
 \vec{n}_1\cdot\vec x&= \vec n_1\cdot \vec p\\
 \vec{n}_2\cdot\vec x&= \vec n_2\cdot \vec p
-\end{aligned}$$
+\end{aligned}
 $$
 You need to use both parameters because there are 3 degrees of freedom in 3D space. To reduce it to a line, you must constrain 2 of those 3 degrees of freedom. This is why two parameters are required to describe the line.
 >[!Note]

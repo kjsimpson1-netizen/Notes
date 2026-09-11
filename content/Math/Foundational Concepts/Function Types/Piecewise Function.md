@@ -1,11 +1,11 @@
 These are functions that have multiple different parts of different functions to describe one larger one. They are often made up of [[Slope-Intercept Form]]. For example:
 $$
-$$\begin{aligned}
+\begin{aligned}
 f(x)&= \begin{cases}
 x^2&\text{if }x\le0\\
 -x&\text{if }x>0
 \end{cases}
-\end{aligned}$$
+\end{aligned}
 $$
 This equation will give us the following graph:
 ```desmos-graph

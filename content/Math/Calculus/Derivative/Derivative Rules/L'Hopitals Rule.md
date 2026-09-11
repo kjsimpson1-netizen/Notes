@@ -1,7 +1,7 @@
 $$
-$$\begin{aligned}
+\begin{aligned}
 \lim_{x\rightarrow\infty}\frac{f(x)}{g(x)}&= \lim_{x\rightarrow\infty}\frac{f'(x)}{g'(x)}
-\end{aligned}$$
+\end{aligned}
 $$
 This is the rule that states that if the [[Limit]] is in [[Indeterminate Form]], that we can take the [[Derivative]] of the numerator and the denominator, and the [[Limit]] will have the same value. In order to apply L'Hopitals rule, there are a few conditions that must be met:
 1. The function must be in [[Indeterminate Form]]
@@ -10,10 +10,10 @@ This is the rule that states that if the [[Limit]] is in [[Indeterminate Form]],
 4. The [[Limit]] of the ratio derivatives must exist as a value, or $\pm\infty$
 >[!Warning]
 >We cannot apply L'Hopitals rule to an oscillating function such as:
-$$
->$$\begin{aligned}
+>$$
+\begin{aligned}
 \lim_{x\rightarrow\infty}\frac{\cos(x)}{\sin(x)}
-\end{aligned}$$
+\end{aligned}
 $$
 Because of the 4th qualification of L'Hopitals rule
 

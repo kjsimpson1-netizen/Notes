@@ -1,8 +1,8 @@
 This is another form of [[Interpolation]] that takes the form:
 $$
-$$\begin{aligned}
+\begin{aligned}
 p_k(t)=a_k(t-t_{k-1})^3+a_k(t-t_{k-1})^3+a_k(t-t_{k-1})^3+d_k,\quad t\in[t_{k-1},t_k]
-\end{aligned}$$
+\end{aligned}
 $$
 Such that $p(t)$ and $p''(t)$ have [[Continuity]].
 >[!Note]

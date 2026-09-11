@@ -4,7 +4,7 @@ On an integral, there is an upper and a lower bound. This appears on the upper a
 
 Using this as well as the [[Fundamental Theorem of Calculus]], we can arrive at the following notation:
 $$
-$$\begin{aligned}
+\begin{aligned}
 \int_a^bxdx=\Big[\frac12x^2\Big]^k_1&= \frac12k^2-\frac12
-\end{aligned}$$
+\end{aligned}
 $$

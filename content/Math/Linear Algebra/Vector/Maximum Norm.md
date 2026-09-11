@@ -1,6 +1,6 @@
 The maximum norm is defined to be:
 $$
-$$\begin{aligned}
+\begin{aligned}
 ||\vec u||_\infty=\max|u_i|
-\end{aligned}$$
+\end{aligned}
 $$

@@ -1,22 +1,22 @@
 A power series is when a [[Series]] is taken with $x$ raised to the nth power. This is shown by:
 $$
-$$\begin{aligned}
+\begin{aligned}
 \sum_{n=0}^\infty A_n(x-c)^n
-\end{aligned}$$
+\end{aligned}
 $$
 These are very useful in [[Taylor Series]]. It is also sometimes useful to rewrite a power series as a [[Geometric Series]]:
 $$
-$$\begin{aligned}
+\begin{aligned}
 \sum_{n=0}^\infty\frac1{1-x}&= \sum_{n=0}^\infty x^n
-\end{aligned}$$
+\end{aligned}
 $$
 ## Calculus
 In order to perform calculus on a power series, we must first confirm that it converges. This can usually be done using the [[Ratio Test]]. If the series converges, we can then use regular derivatives and integral rules on the series:
 $$
-$$\begin{aligned}
+\begin{aligned}
 S'(x)&= \sum_{n=1}^{\infty}nA_n(x-c)^{n-1}\\
 \int S(x)dx&= \sum_{n=0}^{\infty}\frac1{n+1}A_n(x-c)^{n+1}+C
-\end{aligned}$$
+\end{aligned}
 $$
 Although this seems arbitrary, this has important uses in [[Taylor Series]] in easily calculating the nth derivatives. 
 >[!Note]
@@ -38,6 +38,5 @@ e^x &= \sum_{n=0}^\infty \frac{x^n}{n!} \\[1em]
 
 \cos(x) &= \sum_{n=0}^\infty (-1)^n \frac{x^{2n}}{(2n)!}
 \end{aligned}
-$$
 $$
 We can do u-substitutions here to replace the $x$ with whatever desired variable we want. 

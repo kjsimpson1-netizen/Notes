@@ -5,9 +5,9 @@ To make thermometers useful, there has to be a scale on them. The Celsius scale 
 #### Kelvin
 This is a scale with the same increment size as the Celsius scale, but rather than having 0$\degree$ be the freezing temperature of water, it is the lowest possible temperature. This means that it will always have a positive value. This also means that the temperature interval between the two scales will always be identical. A problem with [[Temperature Scales]] is that we only have one defined point (0 K), but we can fix this problem by using a proportion to determine a value (shown below)
 $$
-$$\begin{aligned}
+\begin{aligned}
 \frac {T_1}{T_2}&= \frac{p_1}{p_2}
-\end{aligned}$$
+\end{aligned}
 $$
 #### Fahrenheit
 This scale was determined much the same way as Celsius, however rather than using 0 and 100 as their benchmarks, they used 32 and 212, leaving 180 degrees between freezing the boiling of water. This is why the conversion between Celsius and Fahrenheit works ($C=\frac59(F-32$) because of the proportion between the two scales ($\frac{100}{180}=\frac59$) and the 32 is the difference between the two at 0$\degree$.
@@ -17,8 +17,8 @@ When the [[Pressure]] above water decreases, so does the temperature at which th
 We can use this very specific [[Pressure]] and temperature pair to define the Kelvin scale. If we place a gas thermometer in this triple-point water, we can determine that this is exactly at 0.01$\degree$C. The pressure at which this happens will depend upon the specific gas thermometer. 
 We can then determine that $\frac TP$ is constant and therefore use this proportionality to set the scale:
 $$
-$$\begin{aligned}
+\begin{aligned}
 \frac{T_\text{triple}}{P_\text{triple}}&= \frac{T_\text{object}}{{P_\text{object}}}
-\end{aligned}$$
+\end{aligned}
 $$
 With the $T_{triple}$ being $273.16\degree$C and the pressure being $611.657\;Pa$

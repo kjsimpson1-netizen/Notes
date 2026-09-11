@@ -5,9 +5,9 @@ This is the measure of amount of [[Force]] per unit area, represented by $\sigma
 ## Tensile 
 This is the stress that is applied to springs and to ropes under tension. This is when there is an equal [[Force]] (it's important that it is equal so there is no net force and no acceleration following [[Newton's Second Law]]) on both sides of the object, trying to stretch it apart. The tensile stress can be defined with the following equation:
 $$
-$$\begin{aligned}
+\begin{aligned}
 \sigma&= \frac{F_\perp}{A}
-\end{aligned}$$
+\end{aligned}
 $$
 
 >[!Note]
