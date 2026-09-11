@@ -1,16 +1,21 @@
  These are a method to find the [[Antiderivative]] of functions that can be broken down using the trigonometry functions. These identities are the ones that should be looked for while doing substitution:
 $
+$
 \begin{aligned}
 \sqrt{1-x^2}&&\sqrt{a^2+x^2}&&\sqrt{x^2-a^2}
 \end{aligned}
 $
+$
 We can use the following identities to find the antiderivative of the functions:
+$
 $
 \begin{aligned}
 1-\sin^2\theta&= \cos^2\theta&&1+\tan^2\theta= \sec^2
 \end{aligned}
 $
+$
 These can be rearranged into a form where they mimic the function under the root above. Each one has a corresponding substitution that must be made:
+$
 $
 \begin{aligned}
 \sqrt{a^2-x^2}&\implies \begin{cases}
@@ -29,6 +34,7 @@ dx= a\sec\theta\tan\theta d\theta
 \end{cases}
 \end{aligned}
 $
+$
 ---
 
 ## Examples
@@ -36,6 +42,7 @@ $
 >[!Note] 
 >Integration of $I = \int \sqrt{a^2 - x^2} \,dx$ assuming  $a \in \mathbb{R}^+$ .
 
+$
 $
 \begin{aligned}
 &\textbf{Step 1: Trigonometric Substitution} \\
@@ -69,7 +76,9 @@ $
 &I = \frac{a^2}{2} \left( \arcsin\left(\frac{x}{a}\right) + \frac{x}{a} \sqrt{1 - \left(\frac{x}{a}\right)^2} \right) + C
 \end{aligned}
 $
+$
 ### Example 2
+$
 $
 \begin{aligned}
 &\textbf{Step 1: Complete the Square} \\ 
@@ -84,11 +93,13 @@ $
 &\textbf{Final Answer:} \\ &I = 2\sin^{-1} \left( \frac{x+1}{2} \right) + \frac{(x+1) \sqrt{3 - 2x - x^2}}{2} + C
 \end{aligned}
 $
+$
 ### Example 3
 >[!Note] 
 >Using trigonometric substitution to evaluate $I = \int \frac{1}{\sqrt{x^2 - 4^2}} \,dx$.
 
-$$
+$
+$
 \begin{aligned}
 &\textbf{Step 1: Given Integral} \\
 I &= \int \frac{1}{\sqrt{x^2 - 4^2}} \,dx \\
@@ -120,4 +131,5 @@ I &= \int \frac{1}{\sqrt{4^2\sec^2\theta - 4^2}} \cdot 4\sec\theta\tan\theta \, 
 &\textbf{Step 6: Final Answer} \\
 I &= \log\left|\frac{x}{4} + \sqrt{\left(\frac{x}{4}\right)^2 - 1}\right| + C
 \end{aligned}
-$$
+$
+$

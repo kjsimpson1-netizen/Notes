@@ -4,12 +4,15 @@ In thermodynamic systems, we describe the energy relations in terms of quantitie
 ## Work done during Volume Changes
 Whenever there is a container of gas that changes size due to [[Thermodynamics]], there is work being done by the gas. Note that if there is no change in size, there is no [[Work]] being done, even though there may be a force exerted. We can find how much work is done using a small amount of calculus:
 $
+$
 \begin{aligned}
 W&= F\cdot d\\
 dW&= F\cdot dx
 \end{aligned}
 $
+$
 And because the work here is being done due to a change in [[Pressure]], we can rewrite it as:
+$
 $
 \begin{aligned}
 dW&= PA\cdot dx\\
@@ -19,9 +22,12 @@ A\cdot dx&= dV\\
 dW&= P\;dV
 \end{aligned}
 $
+$
 We can then find the total amount of work done by taking the integral of this:
+$
 $
 \begin{aligned}
 W&= \int_{V_1}^{V_2}P\;dV
 \end{aligned}
+$
 $

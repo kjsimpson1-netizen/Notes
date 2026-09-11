@@ -1,9 +1,11 @@
 ## Scalar Root finding
 We are looking to find the zeroes of $f(x)$, $f(x_*)=0$. We can do this using either the bisection method or the [[Newton-Raphson Method]], both of these will generate a sequence of approximations, such that as we go further in the sequence, the value will get closer to the true root.
 $
+$
 \begin{aligned}
 \lim_{n\to\infty}x_n&= x_*
 \end{aligned}
+$
 $
 ## Bisection
 This method is more general, as we only require that the function here be [[Continuity|Continuous]]. Let $f(x)\in[a,b]$, and $\text{sgn}(f(a))=-\text{sgn}(f(b))$, thus by [[Intermediate Value Theorem]], there must be a 0 somewhere in the interval.

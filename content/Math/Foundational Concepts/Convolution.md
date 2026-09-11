@@ -1,8 +1,10 @@
 This is represented by the $*$ symbol, and it represents the following:
 $
+$
 \begin{aligned}
 (f*g)(t)=\int_0^tf(\tau)g(t-\tau)dT
 \end{aligned}
+$
 $
 ## Properties
 1. Communitive (i.e. $(f*g)(s)\equiv (g*f)(s)$)

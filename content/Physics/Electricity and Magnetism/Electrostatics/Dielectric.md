@@ -5,6 +5,7 @@ This phenomenon is called the *dielectric breakdown* which will cause [[Corona D
 ## Permittivity
 This is the ability of a medium to act as a dielectric, and it is represented by:
 $
+$
 \begin{aligned}
 \epsilon&= \kappa \epsilon_0\\
 \hline\\
@@ -13,10 +14,12 @@ $
 \epsilon_0&= \text{Electric Constant}\\
 \end{aligned}
 $
+$
 >[!Note]
 >The dielectric constant is dependant upon the medium
 ## Energy Density
 We can also represent the electric energy density in a dielectric by:
+$
 $
 \begin{aligned}
 u&= \frac12\kappa\epsilon_0E^2\\
@@ -25,4 +28,5 @@ u&= \text{Energy Density}\\
 \kappa&= \text{Dielectric Constant}\\
 E&= \text{Electric Field}
 \end{aligned}
+$
 $

@@ -1,8 +1,10 @@
 We can also solve [[Second Order Differential Equation]] (similar to that of [[Euler Equations]]) however with different powers for the coefficients of $x$ for a more general method. In order to get these equations, we will have to sometimes approximate the solution using [[Taylor Series]]. These are used to solve equations of the form:
 $
+$
 \begin{aligned}
 P(x)y''+Q(x)y'+R(x)y&= 0&&(1)
 \end{aligned}
+$
 $
 We replace each of the coefficient equations and each term of $y$ with it's [[Power Series]]. 
 >[!Note]
@@ -15,9 +17,11 @@ equation which will show how the equation repeats and continues onwards after th
 >[!Note]
 >After we have obtained the expressions for the terms of $a_n$, we can write it in a series, replacing all the like terms with the same degree of $a$.  i.e. we take the following:
 >$
+$
 \begin{aligned}
 >\sum _{n=0}^\infty a_nx^n=a_0+a_1x+a_2x^2...
 \end{aligned}
+$
 $
 And then replace all the $a_n$th terms with it's valid expression. If the [[Ordinary Differential Equations]] is not [[Homogeneity|Homogenous]], then we just equate to the equivalent degree of $x$ rather than 0.
 

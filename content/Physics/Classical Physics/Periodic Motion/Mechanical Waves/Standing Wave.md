@@ -4,6 +4,7 @@ We can express these waves as a function of time and position:
 >[!Note]
 >The amplitude of a standing wave is twice that of the original travelling waves
 $
+$
 \begin{aligned}
 y(x,t)&= (A_{SW}\sin(kx)) \cdot\sin(\omega t)\\
 \hline\\
@@ -14,10 +15,12 @@ x&= \text{Position}\\
 t&= \text{Time}
 \end{aligned}
 $
+$
 
 The [[Physics/Classical Physics/Periodic Motion/Periodic Motion Definitions/Nodes]] that you see on the string will occur following the expressions:
 >[!Note]
 >These are are mathematically equivalent, as $k= \frac{2\pi}\lambda$
+$
 $
 \begin{aligned}
 x&= \begin{cases}
@@ -25,4 +28,5 @@ x&= \begin{cases}
 0, \frac\lambda 2, \frac{2\lambda }2, \frac{3\lambda}2...
 \end{cases}
 \end{aligned}
+$
 $
