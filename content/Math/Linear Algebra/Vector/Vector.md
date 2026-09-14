@@ -11,16 +11,12 @@ Each of the [[Scalar]] in a vector is called a component, or an entry (although 
 This is the length of the vector, or the size, and can be found using the [[Norm]] of the vector. 
 ## Adding and Subtracting
 You can add and subtract vectors by just subtracting/adding each of the corresponding components in the vectors. 
-$$
-\begin{aligned}
+$$\begin{align*}
 \vec{a}\pm\vec{b}&= (a_1\pm b_1,a_2\pm b_2)
-\end{aligned}
-$$
+\end{align*}$$
 ## Multiplying a vector by a scalar
 If you are multiplying a vector by a scalar, then you distribute the scalar throughout each of the components of the vector. 
-$$
-\begin{aligned}
+$$\begin{align*}
 c\vec{a}&= (ca_1, ca_2)
-\end{aligned}
-$$
+\end{align*}$$
 All this does is scale the length of the vector, not the direction (unless it is negative.)

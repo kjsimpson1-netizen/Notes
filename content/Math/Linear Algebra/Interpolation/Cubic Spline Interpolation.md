@@ -1,9 +1,7 @@
 This is another form of [[Interpolation]] that takes the form:
-$$
-\begin{aligned}
+$$\begin{align*}
 p_k(t)=a_k(t-t_{k-1})^3+a_k(t-t_{k-1})^3+a_k(t-t_{k-1})^3+d_k,\quad t\in[t_{k-1},t_k]
-\end{aligned}
-$$
+\end{align*}$$
 Such that $p(t)$ and $p''(t)$ have [[Continuity]].
 >[!Note]
 >Each polynomial $p_k(t)$ is defined by four coefficients, therefore we required $4N$ unknowns. 

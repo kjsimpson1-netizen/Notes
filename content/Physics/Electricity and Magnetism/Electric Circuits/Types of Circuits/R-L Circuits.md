@@ -1,17 +1,14 @@
 These are any circuit that contain an [[Inductor]] and a [[Resistor]]. The inductor's job is to counteract the change that occurs in the current. The time constant for a R-L circuit, with the time constant being what percentage of the final current value that the [[Current]] has obtained, and is expressed by:
-$$
-\begin{aligned}
+$$\begin{align*}
 \tau&= \frac LR\\
 \hline\\
 \tau&= \text{Time Constant}\\
 L&= \text{Inductance}\\
 R&= \text{Resistance}
-\end{aligned}
-$$
+\end{align*}$$
 ## Current
 The [[Current]] of an RL circuit can be expressed by the following:
-$$
-\begin{aligned}
+$$\begin{align*}
 i(t)&= \frac {\mathcal{E}}R\left(1-e^{-\frac RLt}\right)\\
 \hline\\
 i(t)&= \text{Current}\\
@@ -19,11 +16,9 @@ i(t)&= \text{Current}\\
 R&= \text{Resistance}\\
 L&= \text{Inductance}\\
 t&= \text{Time}
-\end{aligned}
-$$
+\end{align*}$$
 We can then also take the derivative of this to express the rate at which the current through the [[Inductor]] changing:
-$$
-\begin{aligned}
+$$\begin{align*}
 \frac{di(t)}{dt}&= \frac {\mathcal{E}}Le^{-\frac RLt}\\
 \hline\\
 i(t)&= \text{Current}\\
@@ -31,16 +26,13 @@ i(t)&= \text{Current}\\
 R&= \text{Resistance}\\
 L&= \text{Inductance}\\
 t&= \text{Time}
-\end{aligned}
-$$
+\end{align*}$$
 ## Inductor as a current source
 If the inductor becomes the current source of the circuit, the expression for the current flowing through it is:
-$$
-\begin{aligned}
+$$\begin{align*}
 I(t)&= I_0e^{-\frac t\tau}\\
 \hline\\
 I&= \text{Current}\\
 t&= \text{Time}\\
 \tau&= \text{Time Constant}
-\end{aligned}
-$$
+\end{align*}$$

@@ -1,0 +1,1 @@
+Linear operators will change [[Vector]] into another [[Vector]]. They will be denoted by a hat on the letter. These are often [[Matrix|Matrices]].

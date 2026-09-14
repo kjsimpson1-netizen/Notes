@@ -8,16 +8,12 @@ These look like a triangle or resistor with nodes on all sides.
 ---
 We can convert between these two forms using the following equations.
 ## Delta to Wye
-$$
-\begin{aligned}
+$$\begin{align*}
 R_1&= \frac{R_bR_c}{R_a+R_b+R_c}\\
 R_2&= \frac{R_aR_c}{R_a+R_b+R_c}\\
 R_3&= \frac{R_aR_b}{R_a+R_b+R_c}
-\end{aligned}
-$$
+\end{align*}$$
 ## Wye to Delta
-$$
-\begin{aligned}
+$$\begin{align*}
 
-\end{aligned}
-$$
+\end{align*}$$

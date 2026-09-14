@@ -63,3 +63,10 @@ e_{n+1}&=x_{n+1}-x_*\\
 &=ce_n^2
 \end{aligned}
 $$
+## Babylonian Square Root Finding
+This can be used to derive the formula the Babylonians used to compute square roots:
+$$
+\begin{aligned}
+x_{n+1}&= \frac12\left(x_n+\frac{S}{x_n}\right)
+\end{aligned}
+$$

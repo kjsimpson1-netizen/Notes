@@ -5,38 +5,32 @@ y=5\sin(4/(\pi) x)
 ```
 ## Charge
 The charge of an L-C circuit is given by:
-$$
-\begin{aligned}
+$$\begin{align*}
 q(t)&= Q_0\cos(\omega t)\\
 \hline\\
 q&= \text{Charge}\\
 Q_0&= \text{Initial Charge}\\
 \omega&= \text{Frequency}\\
 t&= \text{Time}
-\end{aligned}
-$$
+\end{align*}$$
 ## Current
 This is the derivative of the charge, so this can be represented as:
-$$
-\begin{aligned}
+$$\begin{align*}
 i(t)&= -Q_0\omega\sin(\omega t)\\
 \hline\\
 q&= \text{Charge}\\
 Q_0&= \text{Initial Charge}\\
 \omega&= \text{Frequency}\\
 t&= \text{Time}
-\end{aligned}
-$$
+\end{align*}$$
 >[!Note]
 >From this, we can see that the maximum [[Current]] is the maximum charge multiplied by the angular frequency
 ## Frequency
 We can express the frequency of the oscillations with:
-$$
-\begin{aligned}
+$$\begin{align*}
 \omega&= \sqrt{\frac1{LC}}\\
 \hline\\
 \omega&= \text{Angular Frequency}\\
 L&= \text{Inductance}\\
 C&= \text{Capacitance}
-\end{aligned}
-$$
+\end{align*}$$

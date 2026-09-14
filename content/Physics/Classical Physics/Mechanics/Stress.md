@@ -4,11 +4,9 @@ This is the measure of amount of [[Force]] per unit area, represented by $\sigma
 3. Shear stress (scissors)
 ## Tensile 
 This is the stress that is applied to springs and to ropes under tension. This is when there is an equal [[Force]] (it's important that it is equal so there is no net force and no acceleration following [[Newton's Second Law]]) on both sides of the object, trying to stretch it apart. The tensile stress can be defined with the following equation:
-$$
-\begin{aligned}
+$$\begin{align*}
 \sigma&= \frac{F_\perp}{A}
-\end{aligned}
-$$
+\end{align*}$$
 
 >[!Note]
 The subscript "$\perp$" is important because it indicates that the forces is perpendicular to the cross sectional area. This value is a scalar because $F_\perp$ is the magnitude, not the direction, of the [[Force]].

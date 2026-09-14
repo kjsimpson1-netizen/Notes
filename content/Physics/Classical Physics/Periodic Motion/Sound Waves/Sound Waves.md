@@ -1,14 +1,12 @@
 These obey the properties of [[Mechanical Waves]] and they have the same [[Travelling Wave Equations]] functions. However, we can also express these in terms of their [[Pressure]] differences:
-$$
-\begin{aligned}
+$$\begin{align*}
 P_\text{max}(x,t)&= BkA\\
 \hline\\
 P_\text{max}&= \text{Max Pressure}\\
 B&= \text{Bulk Modulus}\\
 k&= \text{Wave Number}\\
 A&= \text{Displacement Amplitude}
-\end{aligned}
-$$
+\end{align*}$$
 ## Pitch, Volume, and Timbre
 The maximal pressure also has a correlation to how loud a sound is perceived as, with the a greater pressure having a greater perceived volume, and this is measured using the [[Decibel Scale]]. However, even with the exact same [[Frequency]], a higher pressure will have a lower perceived pitch. 
 Another factor that plays a role in the difference of sounds are the harmonics that make up these sounds. Even though the sin waves may have the exact same [[Frequency]], the harmonics that make them up can be very different. This difference in sound is called timbre. This sound difference is usually described as being reedy and tinny. 

@@ -5,16 +5,12 @@ The shortcut for these is "flip/flip/flip". The three things that get flipped ar
 2. The reciprocal
 3. At the other point
 ## Function
-$$
-\begin{aligned}
-\\
+$$\begin{align*}\\
 \text{For the point }&(a,b)\\
 \frac d{dx}f^{-1}(x)\Big|_{x=b}&= \frac 1{f'(f^{-1}(b))}=\frac1{f'(a)}
-\end{aligned}
-$$
+\end{align*}$$
 ## Example
-$$
-\begin{aligned}
+$$\begin{align*}
 f(x)&= x^2,\;x\ge0\\\\
 
 f^{-1}(x)&=\sqrt x\\\\
@@ -22,5 +18,4 @@ f^{-1}(x)&=\sqrt x\\\\
 \frac d{dx}f(x)&= 2x\\
 \\
 \frac d{dx}f^{-1}(x)&= \frac 1{2(\sqrt x)}
-\end{aligned}
-$$
+\end{align*}$$

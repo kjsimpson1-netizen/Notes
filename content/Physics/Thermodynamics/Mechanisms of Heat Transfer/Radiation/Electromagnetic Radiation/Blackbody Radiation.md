@@ -10,26 +10,20 @@ Each element also has it's own specific colours that it can emit, and certain co
 Hitting an electron with the specific wavelength of light also causes it to elevate to a higher level, and then this is re-emitted in other random directions, causing black lines on the spectrum. This is the absorption spectrum.
 ## Wave/particle duality of the electron
 de Broglie discovered by randomly adding equations together, that the electron is actually a wave as well as a particle. We can find their wavelengths using the equation:
-$$
-\begin{aligned}
+$$\begin{align*}
 \lambda&= \frac h{mv}
-\end{aligned}
-$$
+\end{align*}$$
 ## X-ray and Electron Crystallography
 Using x-rays with a wavelength of approximately 1 nano-metre, and using the wave equation and Planck's equations, the energy of a single x-ray is $2.0\times10^{-16}\;J$. X-rays only work until a certain size, and eventually electrons are required for their smaller size. This is due to electrons also acting as waves, which will give the same pattern on the measuring device. This proves the wave-particle duality. 
 ## Quantum Mechanics Wave Functions
 The wave function of the electron is not a representation of the electron, it is the electron until it is observed and the wavefunction collapses. The peaks shown on the graph are the most probable places to find the particle. The graphs are "normalized" so that the entire integral until the wavelength is equal to 1, so the integral under a peak is equal to it's probability in percentages
 ## Equivalence of Mass and Energy
-$$
-\begin{aligned}
+$$\begin{align*}
 E&= mc^2
-\end{aligned}
-$$
+\end{align*}$$
 ### Radiation
 #### Alpha Decay
-$$
-\begin{aligned}
+$$\begin{align*}
 _{94}^{239}Pu&\rightarrow^{235}_{92}U^{-2}+_2^4He^{+2}
-\end{aligned}
-$$
+\end{align*}$$
 There is a slight difference in the masses of the plutonium before, compared to the summation of the uranium and helium ions after. This mass defect is lost to energy, and it is what gives helium it's velocity.

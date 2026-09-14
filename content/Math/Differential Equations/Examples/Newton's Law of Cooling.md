@@ -1,6 +1,4 @@
 This is an example of an [[Autonomous ODE]]:
-$$
-\begin{aligned}
+$$\begin{align*}
 \frac{dx}{dt}&= k(A-x)
-\end{aligned}
-$$
+\end{align*}$$

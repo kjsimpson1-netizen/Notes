@@ -1,9 +1,7 @@
 We can use this to represent the probability that something happens in a given range of values. It is given by the following:
-$$
-\begin{aligned}
+$$\begin{align*}
 \text{Pr}(a\le V\le b)&= \int_a^bf(x)dx
-\end{aligned}
-$$
+\end{align*}$$
 >[!Note]
 >If the bounds are the same value i.e. the [[Probability]] of hitting one exact value on a continuous range, the probability of this happening is 0. However, the sum of a range of value has a non-zero chance of happening, and rather is a finite number
 

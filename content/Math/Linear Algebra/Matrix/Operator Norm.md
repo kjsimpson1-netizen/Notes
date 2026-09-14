@@ -1,27 +1,23 @@
 The operator norm is defined by :
-$$
-\begin{aligned}
+$$\begin{align*}
 ||A||=\max_{x\neq0}\frac{||Ax||}{||x||}
-\end{aligned}
-$$
+\end{align*}$$
 This is the [[Matrix]] analog of the [[Norm|Euclidian Norm]] for  a [[Vector]]. Some properties of the operator norm are:
-1. $$
-\begin{aligned}
+1. $$\begin{align*}
 ||A||&= \max_{||x||=1}||Ax||
-\end{aligned}
-$$
+\end{align*}$$
 This tells us that it is just a rotation i.e. it lies on the unit circle. 
 2. If $A$ is a square [[Matrix]] and has an [[Inverse Matrices]], this means that the following is true:
-   $$
-\begin{aligned}
+   $$\begin{align*}
 ||A^{-1}||&= \frac1{\min||Ax||}
-\end{aligned}
-$$
+\end{align*}$$
 
 >[!Note]
->$$
-\begin{aligned}
+>$$\begin{align*}
 ||D||=\max|d_i|
-\end{aligned}
-$$
+\end{align*}$$
 Where $D$ is defined to be a [[Diagonal Matrices]]
+3. In order to be an operator norm, the following must also hold:
+   $$\begin{align*}
+||AB||_*\le||A||_*||B||_*
+\end{align*}$$

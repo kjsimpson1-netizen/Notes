@@ -4,8 +4,7 @@ y=e^{-0.2(x+5)}*5\sin(4/(\pi) (x+5))
 ```
 ## Charge
 The equation of the charge of this is:
-$$
-\begin{aligned}
+$$\begin{align*}
 q(t)&= Ae^{-\frac t\tau}\cos(\omega't+\phi)\\
 \hline\\
 q&= \text{Charge}\\
@@ -14,34 +13,28 @@ t&= \text{Time}\\
 \tau&= \text{Time Constant}\\
 \omega&= \text{Frequency}\\
 \phi&= \text{Phase Angle}
-\end{aligned}
-$$
+\end{align*}$$
 ## Time Constant
 The time constant of an L-R-C circuit is:
-$$
-\begin{aligned}
+$$\begin{align*}
 \tau&= \frac{2L}R\\
 \hline\\
 \tau&= \text{Time Constant}\\
 L&= \text{Inductance}\\
 R&= \text{Resistance}
-\end{aligned}
-$$
+\end{align*}$$
 ## Frequency
 The angular frequency of these oscillations can be expressed by the following:
-$$
-\begin{aligned}
+$$\begin{align*}
 \omega'&= \sqrt{\frac1{LC}-\frac{R^2}{4L^2}}\\
 \hline\\
 \omega&= \text{Angular Frequency}\\
 L&= \text{Inductance}\\
 C&= \text{Capacitance}
-\end{aligned}
-$$
+\end{align*}$$
 ## Potential Energy
 The potential energy of this system is given by the summation of the potential energy of the [[Capacitor]] and the potential energy of the [[Inductor]]:
-$$
-\begin{aligned}
+$$\begin{align*}
 U&= \frac{q^2}{2C}+\frac{Li^2}{2}\\
 \hline\\
 U&= \text{Potential Energy}\\
@@ -49,19 +42,16 @@ q&= \text{Charge}\\
 C&= \text{Capacitance}\\
 L&= \text{Inductance}\\
 i&= \text{Current}
-\end{aligned}
-$$
+\end{align*}$$
 # With a Power Supply
 If there is a power supply attached, the total magnitude of the voltage can be expressed by a relation of the [[Voltage]] to the [[Current]] and the total [[Impedance]] with.
-$$
-\begin{aligned}
+$$\begin{align*}
 V&= IZ\\
 \hline\\
 V&= \text{Voltage Amplitude}\\
 I&= \text{Current Amplitude}\\
 Z&= \text{Impedance}
-\end{aligned}
-$$
+\end{align*}$$
 >[!Note]
 >When there is a parallel LRC circuit:
 >1. Voltage: The phase shifted voltage can be added up with respect to the common current
