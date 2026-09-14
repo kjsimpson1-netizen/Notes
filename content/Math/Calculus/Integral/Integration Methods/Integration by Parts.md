@@ -1,13 +1,16 @@
 This is the integration equivalent of the [[Product Rule]], and must be done to take the [[Antiderivative]] of any [[Product Rule]]. The formal notation of this using [[Leibniz Notation]] is:
-$$\begin{align*}
+$$
+\begin{aligned}
 \int udv&= uv-\int vdu
-\end{align*}$$
+\end{aligned}
+$$
 Where we can decide what our expressions for $u$ and $v$ will be. The expression for $u$ should be easily differentiable, and the expression for $v$ should have a simple [[Antiderivative]]. However, we also want to simplify the integral as much as possible and should take the most complicated part of the function to be differentiated.
 
 ---
 ## Examples
 ### Example 1
-$$\begin{align*}
+$$
+\begin{aligned}
 &\textbf{Integration by Parts:} \quad \int x \cos(x) \, dx \\
 \hline\\
 &\text{Using the formula:} \quad \int u \, dv = uv - \int v \, du \\ 
@@ -22,7 +25,8 @@ $$\begin{align*}
 &I = x \sin(x) + \cos(x) + C \\ 
 \hline\\
 &\textbf{Final Answer:} \quad \int x \cos(x) \, dx = x \sin(x) + \cos(x) + C
-\end{align*}$$
+\end{aligned}
+$$
 ### Example 2
 #### Integration of $e^{\sqrt{x}}$
 

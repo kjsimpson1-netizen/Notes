@@ -1,5 +1,7 @@
 These are directions that follow the line created by the parametric equation:
-$$\begin{align*}
+$$
+\begin{aligned}
 \vec x(t)&= \vec vt
-\end{align*}$$
+\end{aligned}
+$$
 Where $\vec v$ is the [[Eigenvalues|Eigenvectors]].

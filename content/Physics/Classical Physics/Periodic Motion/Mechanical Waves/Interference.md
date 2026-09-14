@@ -4,11 +4,15 @@ The attachment to the wall is called the **boundary condition**, and these will 
 >For light waves to interfere, they must be **coherent** (the same wavelength and monochromatic)
 ## Constructive Interference
 This will occur when the wavelengths interfere with each other at an nth integer wavelength.
-$$\begin{align*}
+$$
+\begin{aligned}
 \lambda &= 1,2,3...
-\end{align*}$$
+\end{aligned}
+$$
 ## Destructive
 This will occur when the wavelengths interfere at a half wavelength:
-$$\begin{align*}
+$$
+\begin{aligned}
 \lambda&= \frac12,\frac32,\frac52...
-\end{align*}$$
+\end{aligned}
+$$

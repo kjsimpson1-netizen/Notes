@@ -1,4 +1,6 @@
 This is the sum of the diagonal entries of a [[Matrix]]. 
-$$\begin{align*}
+$$
+\begin{aligned}
 \text{Trace}(A)&= \sum_{i=1}^nA_{ii}
-\end{align*}$$
+\end{aligned}
+$$

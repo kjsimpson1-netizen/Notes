@@ -1,11 +1,13 @@
 The rank of a [[Matrix]] is defined as the number of rows in an [[Matrix]] that are nonzero in the [[Row Echelon Form]]. In order to see the rank of a [[Matrix]], we must first have the [[Matrix]] in [[Row Echelon Form]]. For example, the following is a rank 3 [[Matrix]], because they have 3 nonzero rows:
-$$\begin{align*}
+$$
+\begin{aligned}
 \text{Rank}[A|\vec b]= \text{Rank}\begin{bmatrix}
 1 & 2 & 3 & \vert & 4 \\
 0 & 1 & 5 & \vert & 6 \\
 0 & 0 & 3 & \vert & 8
 \end{bmatrix}=3
-\end{align*}$$
+\end{aligned}
+$$
 
 > [!Note]  
 > There are three possibilities we can see from the rank and the number of variables:  

@@ -3,6 +3,8 @@ On an integral, there is an upper and a lower bound. This appears on the upper a
 >If the upper bound is smaller than the lower bound, then the integral must be done "backwards" and will throw a negative sign into the equation. 
 
 Using this as well as the [[Fundamental Theorem of Calculus]], we can arrive at the following notation:
-$$\begin{align*}
+$$
+\begin{aligned}
 \int_a^bxdx=\Big[\frac12x^2\Big]^k_1&= \frac12k^2-\frac12
-\end{align*}$$
+\end{aligned}
+$$

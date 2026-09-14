@@ -1,13 +1,17 @@
 To find the particular solution, one way is to use the undetermined coefficients method. This will take the general form:
-$$\begin{align*}
+$$
+\begin{aligned}
 A(x)y''+B(x)y'+C(x)y=f_0(x)+f_1(x)...
-\end{align*}$$
+\end{aligned}
+$$
 From here, we choose a guess for the equation based off the of the $f(x)$ defined above, and we have to solve the particular solution for each of the forcing terms in isolation such as:
-$$\begin{align*}
+$$
+\begin{aligned}
 A(x)y''+B(x)y'+C(x)y&= f_0(x)\\
 A(x)y''+B(x)y'+C(x)y&= f_1(x)\\
 A(x)y''+B(x)y'+C(x)y&= ...
-\end{align*}$$
+\end{aligned}
+$$
 We can then find the particular solutions following the guesses.
 
 | $f(x)$                                                       | $y_p(x)$                                                                                                    |
