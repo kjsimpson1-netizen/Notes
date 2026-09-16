@@ -1,1 +1,0 @@
-These are any number that can be used to measure things. These include fractions, [[Integers]], and any number with an undefined amount of decimal places, such as $\pi$, $e$ and even $\sqrt2$. These are denoted as $\mathbb{R}$.

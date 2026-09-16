@@ -1,0 +1,2 @@
+This is an [[Ordinary Differential Equations|ODE]] that has the constants still in the equation. Because these constants are undefined, this means that there are infinitely different solutions and therefore we do not have a single set value. In order to make these from a general solution into a specific solution, we need [[Initial Conditions]]. Solving the general form of an [[Ordinary Differential Equations|ODE]] will give a unique solution. 
+

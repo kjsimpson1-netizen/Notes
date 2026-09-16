@@ -1,0 +1,2 @@
+The term poly means "many", and a nomial is a single expression. Therefore, these are functions that are made up of smaller subsections, separated by addition or subtraction. For example, $x^4+3x^2+1$ is a polynomial function, made up of [[Power Function]]. These can also contain [[Rational Functions]], [[Exponential Functions]], [[Logarithmic Functions]] and also [[Trigonometric Functions]].
+

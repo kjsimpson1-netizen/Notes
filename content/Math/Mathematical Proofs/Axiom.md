@@ -1,1 +1,0 @@
-These are truths in mathematics that are taken as true without a need for [[Mathematical Proofs]]. There are also **facts**, things that we will take as true without having to prove (often based off of the fundamental axioms)

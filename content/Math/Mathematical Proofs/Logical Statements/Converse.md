@@ -1,1 +1,0 @@
- Using a given [[Conditionals|Implication]] of $P\implies Q$, a converse is $Q\implies P$. These are distinctly different, as they will have different [[Truth Tables]] i.e. a cat is necessarily an animal, but an animal is not necessarily a cat

@@ -1,0 +1,2 @@
+These are rules that will make taking the [[Derivative]] of functions much easier. 
+

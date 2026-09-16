@@ -1,1 +1,0 @@
-Using a given [[Conditionals|Implication]], we can say that $P\implies Q \equiv (\sim{}Q)\implies(\sim P)$. This is the same as saying that Shakespeare is dead, and that a person who is not dead, is not Shakespeare. 

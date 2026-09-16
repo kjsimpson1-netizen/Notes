@@ -1,0 +1,2 @@
+This is not a single value, rather a useful idea of a value that is too large to imagine. We cannot use this with other mathematics, and it is rather use useful in the bounds of a [[Limit]] to find the [[Horizontal Asymptotes]] or as a concept for an answer. 
+

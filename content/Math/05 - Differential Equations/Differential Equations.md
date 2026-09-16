@@ -1,0 +1,2 @@
+Differential equations are a powerful way to model real world phenomena, and allows us to take quantitative data and construct models. These are a very strong application of [[Derivative]]. These are different than regular equations, as the derivative is dependent upon the function. 
+
