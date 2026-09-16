@@ -4,7 +4,7 @@ $$
 ||A||=\max_{x\neq0}\frac{||Ax||}{||x||}
 \end{aligned}
 $$
-This is the [[Matrix]] analog of the [[Norm|Euclidian Norm]] for  a [[Vector]]. Some properties of the operator norm are:
+This is the [[Matrix]] analog of the [[Euclidian Norm|Euclidian Norm]] for  a [[Vector]]. Some properties of the operator norm are:
 1. $$
 \begin{aligned}
 ||A||&= \max_{||x||=1}||Ax||

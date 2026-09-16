@@ -1,7 +1,7 @@
 ---
 aliases:
 ---
-This is also known as the *inner product*. Whenever you do a dot product between two [[Vector]]s, you will get a [[Scalar]]. 
+This is a special case of the [[Inner Product]]. Whenever you do a dot product between two [[Vector]]s, you will get a [[Scalar]]. 
 Letting $\vec a=(a_1,a_2,a_3 ...a_n)$ and $\vec b=(b_1,b_2,b_3 ...b_n)$, $\vec c$ be defined in the place $\mathbb{R}^n$ , the inner product will be defined as:
 $$
 \begin{aligned}
@@ -26,7 +26,7 @@ $$
 ## Perpendicular
 Another property of this is that if the dot of two vectors is equal to 0, then either one of the vectors is equal to 0, or these are [[Perpendicular]]. 
 ## Squaring
-Another property of dot products is that when a [[Vector]] is dotted with itself, it is equal to it's [[Norm]] squared:
+Another property of dot products is that when a [[Vector]] is dotted with itself, it is equal to it's [[Euclidian Norm]] squared:
 $$
 \begin{aligned}
 \vec a\cdot \vec a&= ||a||^2

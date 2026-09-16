@@ -24,4 +24,4 @@ $$
 & \frac{\partial^2 f}{\partial x_n^2}
 \end{bmatrix}
 $$
-These matrices will always be [[Hermitian Matrices]], and positive and definite. 
+These matrices will always be [[Hermitian Matrix]], and positive and definite. 

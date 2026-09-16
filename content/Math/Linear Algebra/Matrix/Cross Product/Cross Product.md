@@ -34,7 +34,7 @@ b_1&b_2&b_3
 \end{aligned}
 $$
 >[!Note]
->The length or the [[Norm]] of [[Vector]] $\vec c$ is the following:
+>The length or the [[Euclidian Norm]] of [[Vector]] $\vec c$ is the following:
 >$$
 \begin{aligned}
 ||\vec a\times \vec b||&= ||\vec a||||\vec b||\sin\theta\\

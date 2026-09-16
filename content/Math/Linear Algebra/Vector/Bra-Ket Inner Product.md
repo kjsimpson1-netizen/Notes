@@ -1,0 +1,1 @@
+This is a type of [[Inner Product]] between two [[Vector|Vectors]] in [[Dirac Notation]]. This is done the same way 

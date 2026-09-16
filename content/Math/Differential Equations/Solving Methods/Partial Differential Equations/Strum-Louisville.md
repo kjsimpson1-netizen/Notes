@@ -1,10 +1,10 @@
 This is the most general form of the solution for [[Partial Differential Equations]]. These will take the form:
 $$
 \begin{aligned}
-\mathcal{L}\phi&= \lambda w(x)\phi
+L\phi\equiv-[p(x)\phi']'+q(x)&= \lambda w(x)\phi
 \end{aligned}
 $$
-This is valid on the domain from $x\in(0,l)$. It has the boundary conditions (also known as <u> seperated boundary conditions</u>):
+Where $\phi(x)$ are the eigenfunctions and $\lambda$ are the eigenvalues. This is valid on the domain from $x\in(0,l)$. It has the boundary conditions (also known as <u> seperated boundary conditions</u>):
 $$
 \begin{aligned}
 \begin{cases}
@@ -13,7 +13,6 @@ $$
 \end{cases}
 \end{aligned}
 $$
-Where $L\phi\equiv-[p(x)\phi']'+q(x)$
 Assume for regular [[Strum-Louisville]] that:
 $$
 \begin{aligned}
@@ -28,3 +27,20 @@ $$
 >$w(x)$ is called the "weight function"
 
 [[Separation of Variables]] is a special case of [[Strum-Louisville]]
+## Properties
+We have that for all [[Strum-Louisville]] problems, that:
+### Eigenvalues
+1. The [[Eigenvalues]] are real and non negative
+2. $\lambda_1<\lambda_2<\lambda_3<...\lambda_i$
+### Eigenfunctions
+1. If $\lambda_i\neq\lambda_j$, then the two eigenfunctions are orthogonal
+2. Any eigenfunction can be normalized
+3. Completeness of eigenfunctions $\Phi_j(x),j\ge1$, in the sense that any $f(x)$ which is square integrable, can be expanded as $f(x)=\sum_{j=1}^\infty c_j\Phi_j(x)$ with "mean square convergence" at least.
+>[!Note]
+>In order to find $c_j$,  we can take:
+>$$
+\begin{aligned}
+c_j&= \frac{\int_0^lf(x)w(x)\Phi_j(x)dx}{\int_0^lw(x)(\Phi_j(x))^2dx}
+\end{aligned}
+$$
+ 

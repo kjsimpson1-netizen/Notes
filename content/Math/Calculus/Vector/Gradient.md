@@ -8,7 +8,7 @@ f_z
 \end{bmatrix}
 \end{aligned}
 $$
-The gradient will tell us the "steepest slope uphill" from the point that we evaluate the gradient at. This is an example of a [[Vector Field]]. Another property of the gradient is that the [[Norm]] of the gradient will be the maximum rate of change.
+The gradient will tell us the "steepest slope uphill" from the point that we evaluate the gradient at. This is an example of a [[Vector Field]]. Another property of the gradient is that the [[Euclidian Norm]] of the gradient will be the maximum rate of change.
 >[!Note]
 >Because gradients are often used with the [[Dot Product]], the following notation exists:
 >$$
