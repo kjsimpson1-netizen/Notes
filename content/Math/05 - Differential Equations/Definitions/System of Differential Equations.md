@@ -23,7 +23,7 @@ $\vec x$ is a continuous vector function that satisfies $*$
 >[!Note]
 >With higher [[Order]] [[Ordinary Differential Equations]], we can break this down into a lower degree function
 
-We can also write this in [[matrix]] form:
+We can also write this in[[Matrix]]] form:
 $$
 \begin{aligned}
 \frac d{dx}\begin{pmatrix}

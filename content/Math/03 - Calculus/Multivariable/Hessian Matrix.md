@@ -1,4 +1,4 @@
-This is a [[matrix]] of derivatives of a multivariable function:
+This is a [[Matrix]] of derivatives of a multivariable function:
 $$
 \mathbb{H}(\vec x)=\nabla^2 f(\vec{x})
 =

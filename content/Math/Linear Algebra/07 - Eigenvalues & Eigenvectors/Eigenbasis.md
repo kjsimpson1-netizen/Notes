@@ -1,1 +1,0 @@
-An [[Eigenbasis]] is a set of [[Eigenvector|Eigenvectors]] or [[Eigenfunction|Eigenfunctions]] that have a full [[Span]] of the [[Subspace]].  

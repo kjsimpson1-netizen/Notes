@@ -1,6 +1,2 @@
 ## Welcome to my Quartz File
-$$
-\begin{aligned}
-\text{This is a test}
-\end{aligned}
-$$
+This is a compilation of all of notes for Engineering since grade 12. 

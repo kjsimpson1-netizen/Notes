@@ -1,4 +1,4 @@
- This is the method to determine whether or not a [[Critical Points]] in N dimensional will be a local minima, maxima or a saddle point, or none of the above. The hessian [[determinant]] of the [[Hessian Matrix]] in 2 dimensions takes the form:
+ This is the method to determine whether or not a [[Critical Points]] in N dimensional will be a local minima, maxima or a saddle point, or none of the above. The hessian[[Determinant]]] of the [[Hessian Matrix]] in 2 dimensions takes the form:
 $$
 \begin{aligned}
 D(x,y)&= f_{xx}f_{yy}-f_{xy}^2

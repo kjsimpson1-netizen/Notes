@@ -1,5 +1,4 @@
-Discontinuity is when at least one of the [[One Sided Limits]] or the function evaluated at $x=a$ are not equivalent, and therefore the function at $x=a$ doesn't have [[Continuity]].
-There are a few type of discontinuities depending on which part is unequal.
+Discontinuity is when at least one of the [[One Sided Limits]] or the function evaluated at $x=a$ are not equivalent, and therefore the function at $x=a$ doesn't have [[Continuity]]. There are a few type of discontinuities depending on which part is unequal.
 ## Jump Discontinuities
 These are discontinuities that have a [[Limit]] for both the top and bottom, but both [[One Sided Limits]] have different values. The function evaluated at this point exists at one side or the other, or neither but not both as this would break the vertical line test.
 $$

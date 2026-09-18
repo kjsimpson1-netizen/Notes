@@ -1,6 +1,6 @@
 This is based off of Tuckman's framework of team development. Each term will go through this differently. 
 ## Forming
-This is the stage where the team is generally polite with a desire to minimize controversy, as well as a feeling of optimism and an uncertainty about roles. In this stage, everyone tries to contribute, however the lack of clear goals and directions mean that the strengths of the team are yet to be fully utilised. Most teamwork is done individual
+This is the stage where the team is generally polite with a desire to minimize controversy, as well as a feeling of optimism and an uncertainty about roles. In this stage, everyone tries to contribute, however the lack of clear goals and directions mean that the strengths of the team are yet to be fully utilized. Most teamwork is done individual
 ## Storming
 This is where members feel more comfortable to share their mind, however this can cause power struggles. The quality and quantity of work at this stage decreases
 ## Norming

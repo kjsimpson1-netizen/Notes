@@ -1,15 +1,15 @@
 This is the most general form of the solution for [[Partial Differential Equations]]. These will take the form:
 $$
 \begin{aligned}
-L\phi\equiv-[p(x)\phi']'+q(x)&= \lambda w(x)\phi
+L\Big[\phi\Big]\equiv[p(x)\phi']'+q(x)\phi&= -\lambda w(x)\phi
 \end{aligned}
 $$
-Where $\phi(x)$ are the eigenfunctions and $\lambda$ are the eigenvalues. This is valid on the domain from $x\in(0,l)$. It has the boundary conditions (also known as <u> seperated boundary conditions</u>):
+Where $\phi(x)$ are the [[Eigenfunction|Eigenfunctions]] and $\lambda$ are the [[Eigenvalues]]. This is valid on the domain from $x\in(0,l)$. It has the boundary conditions (also known as <u> seperated boundary conditions</u>):
 $$
 \begin{aligned}
 \begin{cases}
 \phi'(0)-h_1\phi(0)=0\\
-\phi'(l)-h_1\phi(l)=0
+\phi'(l)-h_\phi(l)=0
 \end{cases}
 \end{aligned}
 $$
@@ -43,6 +43,13 @@ We have that for all [[Sturm-Liouville]] problems, that:
 c_j&= \frac{\int_0^lf(x)w(x)\Phi_j(x)dx}{\int_0^lw(x)(\Phi_j(x))^2dx}
 \end{aligned}
 $$
- 
-
-
+## Regular Singular Points
+If on the end of the domain of the differential equation, there is a regular singular point, we can evaluate it as before, however using a <u>soft boundary condtion</u> at the side with the singular point.
+### Soft Boundary Condition
+This is a boundary condition such that the boundary term vanishes at $x=0$. A sufficient condition  is that $\phi$ and $\phi'$ are <u>bounded</u> as $x$ goes to the singular point. This is so that:
+$$
+\begin{aligned}
+\lim_{x\to0^+}p(x)\phi(x)=0&&\lim_{x\to0^+}p(x)\phi'(x)=0
+\end{aligned}
+$$
+We first use [[Frobenius Method]] to solve for the [[Boundary Conditions]], then from there we use the fact that the [[Boundary Conditions]] must be bounded to choose them. 

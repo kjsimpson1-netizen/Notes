@@ -1,1 +1,0 @@
-The geometric multiplicitiy (GM) of a [[Eigenvalues]] ($\lambda$) of a [[matrix]] ($P$) is the number of non [[Linear Independence]] [[Eigenvalues]] associated with $\lambda$. This is equivalent to the [[Nullspace]] of the [[Characteristic Equation]].
