@@ -52,4 +52,4 @@ $$
 \lim_{x\to0^+}p(x)\phi(x)=0&&\lim_{x\to0^+}p(x)\phi'(x)=0
 \end{aligned}
 $$
-We first use [[Frobenius Method]] to solve for the [[Boundary Conditions]], then from there we use the fact that the [[Boundary Conditions]] must be bounded to choose them. 
+We first use [[Frobenius Method]] to solve for the [[Boundary Conditions]], then from there we use the fact that the [[Boundary Conditions]] must be bounded to choose them.  

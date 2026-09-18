@@ -3,7 +3,7 @@ This is a subset of [[Linear Algebra]], however instead of just regular [[Vector
 >Unlike regular [[Dot Product]], where $(-\hat i)\cdot(\hat i)=-1$, $\braket{+x|-x}=0$
 
 ## Bra's and Ket's
-If we are given a ket, $\ket{x}$, in order to find it's bra, we take the transpose conjugate of the ket. 
+If we are given a ket, $\ket{x}$, in order to find it's bra, we take the [[Adjoint]] of the ket. 
 $$
 \begin{aligned}
 \ket{x}&\equiv  \begin{bmatrix}
@@ -17,4 +17,4 @@ $$
 >[!Note]
 >An important property of a bra and it's respective ket is that the inner product will always give 1 (assuming that it's normalized).
 ## Probability Amplitudes
-When we take the inner product of two states, we will get the probability amplitude. In order to find the actual probability, we will have to square the probability amplitude. 
+When we take the [[Bra-Ket Inner Product]] of two states, we will get the probability amplitude. In order to find the actual probability, we will have to square the probability amplitude. 

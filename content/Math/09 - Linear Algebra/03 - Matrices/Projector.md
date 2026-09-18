@@ -1,3 +1,7 @@
+---
+aliases:
+  - Projectors
+---
 These are found using the [[Outer Product]] of a [[Vector]] with itself, using the following equation:
 $$
 \begin{aligned}
@@ -18,8 +22,8 @@ $$
 \end{aligned}
 $$
 2. The sum of all the projectors of the full [[Basis]] will give the [[Identity Matrix]]:
-   $$
+$$
 \begin{aligned}
-\sum_jP_j=\mathbb{I}
+\sum_j\hat P_j=\mathbb{I}
 \end{aligned}
 $$

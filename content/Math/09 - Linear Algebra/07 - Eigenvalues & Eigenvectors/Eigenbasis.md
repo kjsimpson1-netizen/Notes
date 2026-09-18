@@ -18,55 +18,39 @@ $$
 \lambda_2=2,\qquad \vec v_2=\begin{bmatrix}1\\1\end{bmatrix}
 $$
 
-Since these two [[Eigenvector|Eigenvectors]] are linearly independent, they form an [[Eigenbasis]] for $\mathbb R^2$. We can verify this by forming the change-of-[[Basis]] [[Matrix]]:
-
+Since these two [[Eigenvector|Eigenvectors]] are linearly independent, they form an [[Eigenbasis]] for $\mathbb R^2$. We can verify this by forming the [[Change of Basis]] [[Matrix]]:
 $$
 P=\begin{bmatrix}|&|\\\vec v_1&\vec v_2\\|&|\end{bmatrix}
 =\begin{bmatrix}1&1\\0&1\end{bmatrix}
 $$
-
 Since
-
 $$
 \det(P)=1\neq0,
 $$
-
 $P$ is invertible, meaning that the eigenvectors form a basis. Therefore, any [[Vector]] $\vec v\in\mathbb R^2$ can be expressed as a [[Linear Combination]] of these eigenvectors:
-
 $$
 \vec v=\sum_{i=1}^{2}c_i\vec v_i.
 $$
-
 More generally, if an $n\times n$ matrix has $n$ linearly independent eigenvectors, then they form an eigenbasis and
-
 $$
 \vec v=\sum_{i=1}^{n}c_i\vec v_i.
 $$
-
 The coefficients $c_i$ are the coordinates of $\vec v$ in the eigenbasis. In general, they can be found using the inverse of the change-of-basis matrix:
-
 $$
 [\vec v]_{\text{eigenbasis}}=P^{-1}[\vec v]_{\text{standard}}.
 $$
-
 If the eigenvectors are orthogonal, we can instead find each coefficient independently using the [[Dot Product]]:
-
 $$
 c_i=\frac{\vec v_i\cdot\vec v}{\vec v_i\cdot\vec v_i}.
 $$
-
 This is effectively a projection of $\vec v$ onto the eigenvector $\vec v_i$. If the eigenvectors are orthonormal, this simplifies to
-
 $$
 c_i=\vec v_i\cdot\vec v.
 $$
-
 > [!Note] **Projection coefficients**
 > The projection formula only works directly when the basis vectors are orthogonal. A general eigenbasis does not necessarily consist of orthogonal eigenvectors, so the coefficients must generally be found using $P^{-1}$.
 > If a matrix is defective, it does not have enough linearly independent eigenvectors to form a basis for the entire vector space. In this case, the available eigenvectors span only a proper subspace of the original vector space, and an eigenbasis for the entire space does not exist.
-
 ## Functions
-
 The same idea extends to function spaces. Function spaces can be infinite-dimensional. For example, representing an arbitrary sufficiently well-behaved function on an interval generally requires an infinite set of basis functions.
 If
 

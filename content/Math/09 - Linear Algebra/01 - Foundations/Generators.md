@@ -7,7 +7,7 @@ $$
 >[!Note]
 >The generator being in the exponent doesn't have a physical meaning. It only acts as a definition, and it is only useful when we use the [[Taylor Series]] to represent it. 
 
-These become useful when we apply them to a state, particularly when the state that is being represented is expressed in the eigen basis of the generator. We can show this as:
+These become useful when we apply them to a state, particularly when the state that is being represented is expressed in the eigen basis of the generator (using the [[Spectral Theorem]]. We can show this as:
 $$
 \begin{aligned}
 U(s)\ket{\phi}&= \exp(-i\hat G s)(c_1\ket{\lambda_1}+c_2\ket{\lambda_2})\\
