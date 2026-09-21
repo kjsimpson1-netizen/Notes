@@ -1,4 +1,4 @@
-This is another method for [[Linear System]]. This is very similar to [[Row Echelon Form]], however without any non-zero values in the non-pivotal positions. When the reduced row echelon form is applied to the matrix, it will make it look like:
+This is another method for [[Math/09 - Linear Algebra/02 - Linear Systems/Linear System]]. This is very similar to [[Row Echelon Form]], however without any non-zero values in the non-pivotal positions. When the reduced row echelon form is applied to the matrix, it will make it look like:
 $$
 \begin{aligned}
 \bf{A}&= \begin{bmatrix}

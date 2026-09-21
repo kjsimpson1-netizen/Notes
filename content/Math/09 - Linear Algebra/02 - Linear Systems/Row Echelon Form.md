@@ -1,4 +1,4 @@
-This is the form of which you want to get for [[Linear System]]. The row echelon form, or REF, looks like:
+This is the form of which you want to get for [[Math/09 - Linear Algebra/02 - Linear Systems/Linear System]]. The row echelon form, or REF, looks like:
 $$
 \begin{aligned}
 \begin{bmatrix} 1 & * & * & * & \dots & * \\ 0 & 1 & * & * & \dots & * \\ 0 & 0 & 1 & * & \dots & * \\ 0 & 0 & 0 & 1 & \dots & * \\ \vdots & \vdots & \vdots & \vdots & \ddots & \vdots \\ 0 & 0 & 0 & 0 & \dots & 1 \end{bmatrix}

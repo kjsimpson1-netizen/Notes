@@ -1,4 +1,4 @@
-This is the [[Matrix]] representation for a [[Linear System]]. It is represented by:
+This is the [[Matrix]] representation for a [[Math/09 - Linear Algebra/02 - Linear Systems/Linear System]]. It is represented by:
 $$
 \begin{aligned}
 A\vec x&= \vec b

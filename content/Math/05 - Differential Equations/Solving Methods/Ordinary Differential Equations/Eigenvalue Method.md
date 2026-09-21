@@ -61,7 +61,7 @@ $$
 \vec x_1(t)= c_1e^{\lambda_1t}\vec v_1\qquad\vec x_2(t)= c_2e^{\lambda_2t}\vec v_2
 \end{aligned}
 $$
-We can then just plug in the [[Eigenvalues]] and [[Eigenvalues|Eigenvectors]] for the equation. However, if we are given an initial value, then we can plug this in and either solve for it using a [[Linear System]] or by using [[Inverse Matrices]]. We can then write this as:
+We can then just plug in the [[Eigenvalues]] and [[Eigenvalues|Eigenvectors]] for the equation. However, if we are given an initial value, then we can plug this in and either solve for it using a[[Math/09 - Linear Algebra/02 - Linear Systems/Linear System]]] or by using [[Inverse Matrices]]. We can then write this as:
 $$
 \begin{aligned}
 \vec x&= \vec x_1+\vec x_2

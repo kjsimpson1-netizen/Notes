@@ -1,4 +1,4 @@
-This is a form for a [[Matrix]] that is commonly used for [[Linear System]]. This allows us to easily see the coefficients of the variables, without having to write out every single variable. An augmented matrix will look like:
+This is a form for a [[Matrix]] that is commonly used for [[Math/09 - Linear Algebra/02 - Linear Systems/Linear System]]. This allows us to easily see the coefficients of the variables, without having to write out every single variable. An augmented matrix will look like:
 $$
 \begin{aligned}
 \left[\begin{array}{ccccc|c}

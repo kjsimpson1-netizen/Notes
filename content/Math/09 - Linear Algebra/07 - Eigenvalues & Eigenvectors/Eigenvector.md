@@ -15,6 +15,6 @@ $$
 (A-\lambda\mathbb{I})\vec v=0
 \end{aligned}
 $$
-To solve for the eigenvectors. We can plug in the corresponding [[Eigenvalues]] and solve the [[Linear System]]to get the [[Eigenpair]].
+To solve for the eigenvectors. We can plug in the corresponding [[Eigenvalues]] and solve the [[Math/09 - Linear Algebra/02 - Linear Systems/Linear System]]to get the [[Eigenpair]].
 ## Relation to Linear Transformations
 Given a [[Linear Transformation]], when the [[Eigenpair|Eigenpairs]] of the [[Matrix]] are found, these represent the [[Vector|Vectors]] which stay on their [[Span]] after the [[Linear Transformation]], only scaled by the [[Eigenvalues|Eigenvalue]]. 

@@ -1,4 +1,4 @@
-This is a powerful strategy to solve [[Partial Differential Equations]]. This can be done when the [[Math/Differential Equations/Differential Equations|Differential Equations]] can be broken down into each of it's parts, where we assume that neither of the variables are dependent upon each other, i.e.:
+This is a powerful strategy to solve [[Partial Differential Equations]]. This can be done when the differential equations can be broken down into each of it's parts, where we assume that neither of the variables are dependent upon each other, i.e.:
 $$
 \begin{aligned}
 u(x,t)=X(x)T(x)
@@ -12,6 +12,13 @@ u_t&= X(x)\dot T(t)
 \end{aligned}
 $$
 From this point, we can plug in the expression into the [[Partial Differential Equations]]. 
+## Inhomogeneous [[Partial Differential Equations]] 
+These are [[Partial Differential Equations|PDE]]'s where either the [[Boundary Conditions]] are inhomogeneous, or have an inhomogeneous forcing term/external load.
+### Forcing Term
+This is when there is a non-separable portion of the equation. For this, we start with the homogenous version of the equation, ignoring the force term and focusing on the underlying [[Sturm-Liouville]] problem. Once we have solved the underlying [[Sturm-Liouville]] problem by regular separation of variables, 
+From here, instead of finding the expression for $T(t)$ as well, express it as $b_n(t)$ as the constant term out front. From here, express the other term in terms of the [[Eigenfunction|Eigenfunctions]], and apply boundary conditions to find the values for $b_n(t)$.  
+>[!Note]
+>We do the same thing with any inhomogeneous terms, expressing them in the [[Eigenbasis]] of the [[Eigenfunction]]. 
 ## Example of Heat Equation
 The heat equation is:
 $$
@@ -75,5 +82,5 @@ $$
 \boxed{u(x,t)= \sum_{n=0}^\infty c_n\cos\left(\frac{\pi n}{2L} x\right)\exp\left(-\left(\frac{\pi n}{2L}\right)^2t\right)}
 \end{aligned}
 $$
-And from here, the values of $c_n$ can be determined via initial conditions. **
+And from here, the values of $c_n$ can be determined via initial conditions.
 

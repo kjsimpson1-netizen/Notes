@@ -1,4 +1,4 @@
-This is a very useful tool for [[Linear System]]. It relies on the principle of being able to multiple an equation by a [[Scalar]] and have the product be a scaled version of the original, yet still be equal. The goal of Gaussian elimination is to get the vector into [[Row Echelon Form]] or [[Reduced Row Echelon Form]]. This can be done by either:
+This is a very useful tool for [[Math/09 - Linear Algebra/02 - Linear Systems/Linear System]]. It relies on the principle of being able to multiple an equation by a [[Scalar]] and have the product be a scaled version of the original, yet still be equal. The goal of Gaussian elimination is to get the vector into [[Row Echelon Form]] or [[Reduced Row Echelon Form]]. This can be done by either:
 
 1. **Row Interchange**: Swap rows if needed to avoid zero pivots.
 2. **Row Scaling**: Make the pivot element 1 (optional but simplifies calculations).

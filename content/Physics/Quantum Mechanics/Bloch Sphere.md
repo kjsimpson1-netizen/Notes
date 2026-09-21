@@ -1,0 +1,1 @@
+This is a 3 dimensional representation of a single [[Qubit]] system. The poles on the z axis are used to represent base states, i.e. $\ket{+z}$ and $\ket{-z}$. The rest of the surface of the sphere is used to represent a mixture of the two base states. 

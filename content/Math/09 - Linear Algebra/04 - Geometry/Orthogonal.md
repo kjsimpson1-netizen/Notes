@@ -1,0 +1,1 @@
+Any two things (i.e. [[Vector|Vectors]], [[Matrix|Matrices]], functions) are defined to be **orthogonal** if $\braket{x,y}=0$ (i.e. the [[Dot Product|Inner Product]] is 0).
