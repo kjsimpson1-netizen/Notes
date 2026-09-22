@@ -1,4 +1,4 @@
-This is a type of [[Interpolation]] that uses a sum of polynomials to fit a given set of data. For a data set with $d+1$ data points, we can **always** make a polynomial of degree $n$ that will fit these date points with the function. The function is given by:
+This is a type of [[10 - Interpolation]] that uses a sum of polynomials to fit a given set of data. For a data set with $d+1$ data points, we can **always** make a polynomial of degree $n$ that will fit these date points with the function. The function is given by:
 $$
 \begin{aligned}
 P_d(x)=c_0+c_1t+c_2t^2+...c_dt^d
