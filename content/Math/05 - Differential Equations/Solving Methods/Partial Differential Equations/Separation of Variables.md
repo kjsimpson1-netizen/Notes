@@ -15,7 +15,7 @@ From this point, we can plug in the expression into the [[Partial Differential E
 ## Inhomogeneous [[Partial Differential Equations]] 
 These are [[Partial Differential Equations|PDE]]'s where either the [[Boundary Conditions]] are inhomogeneous, or have an inhomogeneous forcing term/external load.
 ### Forcing Term
-This is when there is a non-separable portion of the equation. For this, we start with the homogenous version of the equation, ignoring the force term and focusing on the underlying [[Sturm-Liouville]] problem. Once we have solved the underlying [[Sturm-Liouville]] problem by regular separation of variables, 
+This is when there is a non-separable portion of the equation. For this, we start with the homogenous version of the equation, ignoring the forcing term and focusing on the underlying [[Sturm-Liouville]] problem. Once we have solved the underlying [[Sturm-Liouville]] problem by regular separation of variables, 
 From here, instead of finding the expression for $T(t)$ as well, express it as $b_n(t)$ as the constant term out front. From here, express the other term in terms of the [[Eigenfunction|Eigenfunctions]], and apply boundary conditions to find the values for $b_n(t)$.  
 >[!Note]
 >We do the same thing with any inhomogeneous terms, expressing them in the [[Eigenbasis]] of the [[Eigenfunction]]. 

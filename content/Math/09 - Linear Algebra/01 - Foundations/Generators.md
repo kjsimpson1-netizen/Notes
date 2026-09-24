@@ -1,3 +1,7 @@
+---
+aliases:
+  - Generator
+---
 A generator produces a [[Linear Transformation]] when repeatedly applied. These generators will be a [[Hermitian Matrix]] and [[Unitary Matrices]]. In order for these to be applied, they will be exponentiated, letting $G$ be the [[Generators]] and the $U$ being the [[Linear Transformation]]:
 $$
 \begin{aligned}

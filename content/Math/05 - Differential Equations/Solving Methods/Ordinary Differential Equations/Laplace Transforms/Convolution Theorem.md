@@ -5,5 +5,5 @@ $$
 \mathcal{L}^{-1}\Big\{F(s)\cdot G(s)\Big\}(t)&= (f*g)(t)
 \end{aligned}
 $$
-This is especially useful when we can find a product of two [[Inverse Laplace Transforms]], which we can use [[Convolution]] instead of [[Partial Fractions]]
+This is especially useful when we can find a product of two [[Inverse Laplace Transforms]], which we can use[[Math/01 - Foundations/Convolution]]] instead of [[Partial Fractions]]
 

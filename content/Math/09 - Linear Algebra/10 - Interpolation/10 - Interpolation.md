@@ -1,3 +1,7 @@
+---
+aliases:
+  - Interpolation
+---
 Interpolation is the process of constructing a function, called an **interpolant**, that matches a given set of data points and approximates the underlying true function.
 There are infinitely many possible functions that can pass through a given set of data points. Therefore, additional constraints are needed to determine a particular interpolation strategy.
 ## Global Interpolation

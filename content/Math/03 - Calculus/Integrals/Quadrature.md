@@ -1,0 +1,1 @@
+This is an alternate term for numerical integration. Let a sub-interval $x\in[a,b]$ be broken into $N$ subintervals of length $h=\frac{b-a}N$ and considered on these subintervals mapped to $[-1,1]$. 
