@@ -15,10 +15,40 @@ From this point, we can plug in the expression into the [[Partial Differential E
 ## Inhomogeneous [[Partial Differential Equations]] 
 These are [[Partial Differential Equations|PDE]]'s where either the [[Boundary Conditions]] are inhomogeneous, or have an inhomogeneous forcing term/external load.
 ### Forcing Term
-This is when there is a non-separable portion of the equation. For this, we start with the homogenous version of the equation, ignoring the forcing term and focusing on the underlying [[Sturm-Liouville]] problem. Once we have solved the underlying [[Sturm-Liouville]] problem by regular separation of variables, 
+$$
+\begin{aligned}
+u_t=u_{xx}+\underbrace{g(x,t)}_\text{Forcing Term}
+\end{aligned}
+$$
+This is when there is a non-separable portion of the equation. For this, we start with the homogenous version of the equation, ignoring the forcing term and focusing on the underlying [[Sturm-Liouville]] problem. Once we have solved the underlying [[Sturm-Liouville]] problem by regular separation of variables.
+>[!Note]
+We can also try using a [[Steady State Solution]]
+
 From here, instead of finding the expression for $T(t)$ as well, express it as $b_n(t)$ as the constant term out front. From here, express the other term in terms of the [[Eigenfunction|Eigenfunctions]], and apply boundary conditions to find the values for $b_n(t)$.  
 >[!Note]
 >We do the same thing with any inhomogeneous terms, expressing them in the [[Eigenbasis]] of the [[Eigenfunction]]. 
+
+### Source Terms
+This is when there are [[Boundary Conditions]] that are non-zero:$$
+\begin{aligned}
+u(0,t)=0,\underbrace{u(L,t)=h(t)}_\text{Inhomogeneous}
+\end{aligned}
+$$
+In this case, we will need to transform to homogeneous [[Boundary Conditions]], at the expense of introducing a forcing term, $g(t)$. From here, we need to find a steady state that satisfies:
+$$
+\begin{aligned}
+\begin{cases}
+\frac{d^2}{dx^2}u_x=0\implies u_s=A(t)x+B(t)\\
+u_s(0)=0 \implies u_s(L)=h(t)\implies \frac{A=h(t)}L
+\end{cases}
+\end{aligned}
+$$This then gives us:
+$$
+\begin{aligned}
+u_s=\frac{h(t)x}{L}
+\end{aligned}
+$$
+We can then replace $u(x,t)$ with $u_s+v(x,t)$ (similar to the [[Steady State Solution]]). We then plug this into the original [[Partial Differential Equations|PDE]], which will gives us a [[Partial Differential Equations|PDE]] for $v(x,t)$, which we can then solve for, replacing the [[Boundary Conditions]] as well. 
 ## Example of Heat Equation
 The heat equation is:
 $$

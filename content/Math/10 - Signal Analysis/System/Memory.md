@@ -5,3 +5,9 @@ y(t)=x(t-1)
 \end{aligned}
 $$
 This is stating that the current state of [[Signal]] $y$ is dependent on a previous state of $x$. 
+In order for a system to be memoryless, it's response to a [[Unit Impulse]] must be a scaled version of that [[Unit Impulse]]:
+$$
+\begin{aligned}
+h(t)=\mathcal{L}\{\delta (t)\}=C\delta (t)
+\end{aligned}
+$$
